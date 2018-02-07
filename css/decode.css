@@ -561,6 +561,7 @@ embed,iframe,object {
 }
 
 .site-title {
+	font-size: 29px;
     text-align: center;
     word-wrap: break-word;
     overflow-wrap: break-word;
