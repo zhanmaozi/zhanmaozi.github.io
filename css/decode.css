@@ -572,7 +572,7 @@ embed,iframe,object {
     -webkit-transition: color .5s;
     transition: color .5s;
     color: #4C4C4C;
-    font-size: 1.95em;
+    font-size: 0.95em;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 
