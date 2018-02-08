@@ -22,15 +22,20 @@
 		<p/><p/><p/>
    <h1 class="site-title">java信号量</h1>
 		<p/><p/>
-		<div>
 		
+		
+		
+		
+		##问题背景：
+公司的微信公众号用户量比较大，每个月月初的时候会给用户推送上个月的账单数据，除此之外还会不定期给用户推送一些营销活动的模板消息。
+##当前的解决办法是：
+  抽取用户数据后将用户分组标记，分为10个组，然后开启10个线程，一个线程一个组，互不相干。至此一小时推送7W左右。
+##业务希望能提高速度，于是改进办法：
+采用newCachedThreadPool线程池，结果是速度快了，因为推送的tomcat和主项目公用一台服务器，用了线程池之后，速度提高了但是影响了主项目的响应速度，于是放弃,天无绝人之路，重在思考。
+发现java有信号量，可以控制资源，于是把线程当资源，控制并发线程数，这样一来的话就
 
-
-
-
-
-
-
+代码如下：
+```java
 package com.XXXXXX;
 
 import java.util.concurrent.ExecutorService;
@@ -38,21 +43,9 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Semaphore;
 
 /**
- * Created by maxiaoying on 2018/2/2.
- * DESC:线程信号量demo
- 
-  问题背景：
-  公司的微信公众号用户量比较大，每个月月初的时候会给用户推送上个月的账单数据，除此之外还会不定期给用户推送一些营销活动的模板消息。
-  当前的解决办法是：
-  抽取用户数据后将用户分组标记，分为10个组，然后开启10个线程，一个线程一个组，互不相干。至此一小时推送7W左右。
-  业务希望能提高速度，于是改进办法：
-  采用newCachedThreadPool线程池，结果是速度快了，因为推送的tomcat和主项目公用一台服务器，用了线程池之后，速度提高了但是影响了主项目的响应速度，于是放弃
-  天无绝人之路，重在思考。
-  发现java有信号量，可以控制资源，于是把线程当资源，控制并发线程数，这样一来的话就
- 
- 
- 
- */
+* Created by maxiaoying on 2018/2/2.
+* DESC:线程信号量demo
+*/
 public class SemaphoreDemo {
     public static void main(String[] args) {
         // 线程池
@@ -112,11 +105,16 @@ public class SemaphoreDemo {
         }
     }
 }
+```
+
 		
 		
 		
 		
-		</div>
+		
+		
+		
+		
         
 
 
