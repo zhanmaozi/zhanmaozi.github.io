@@ -1,0 +1,1347 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?amF2YdDFusXBv1NlbWFwaG9yZS5tZA==?=
+Date: Date: Thu, 8 Feb 2018 13:52:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0275857299.467"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0275857299.467
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0091952433.334"
+
+
+------=_Next_Part_0091952433.334
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0091952433.334
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dutf-8">=0A<meta http-equiv=3D=
+"X-UA-Compatible" content=3D"IE=3D7,8,9,10,11">=0A=0A<title>java=E4=
+=BF=A1=E5=8F=B7=E9=87=8FSemaphore.md</title>=0A    =0A<style id=3D=
+"wiz_custom_css">html, body {font-size: 12pt;}body {font-family:=20=
+Helvetica, 'Hiragino Sans GB', '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=
+=91', 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-serif;lin=
+e-height: 1.6;margin: 0 auto;padding: 20px 16px;padding: 1.25rem=20=
+1rem;}h1, h2, h3, h4, h5, h6 {margin:20px 0 10px;margin:1.25rem 0=
+ 0.625rem;padding: 0;font-weight: bold;}h1 {font-size:20pt;font-s=
+ize:1.67rem;}h2 {font-size:18pt;font-size:1.5rem;}h3 {font-size:1=
+5pt;font-size:1.25rem;}h4 {font-size:14pt;font-size:1.17rem;}h5 {=
+font-size:12pt;font-size:1rem;}h6 {font-size:12pt;font-size:1rem;=
+color: #777777;margin: 1rem 0;}div, p, ul, ol, dl, li {margin:0;}=
+blockquote, table, pre, code {margin:8px 0;}ul, ol {padding-left:=
+32px;padding-left:2rem;}ol.wiz-list-level1 > li {list-style-type:=
+decimal;}ol.wiz-list-level2 > li {list-style-type:lower-latin;}ol=
+.wiz-list-level3 > li {list-style-type:lower-roman;}blockquote {p=
+adding:0 12px;padding:0 0.75rem;}blockquote > :first-child {margi=
+n-top:0;}blockquote > :last-child {margin-bottom:0;}img {border:0=
+;max-width:100%;height:auto !important;margin:2px 0;}table {borde=
+r-collapse:collapse;border:1px solid #bbbbbb;}td, th {padding:4px=
+ 8px;border-collapse:collapse;border:1px solid #bbbbbb;min-height=
+:28px;word-break:break-all;box-sizing: border-box;}.wiz-hide {dis=
+play:none !important;}</style><style name=3D"wiz_tmp_editor_style=
+">html {height:100%;} body {min-height:100%;box-sizing:border-box=
+;word-wrap: break-word !important;}a {word-wrap: break-word;}img:=
+:selection {background-color: rgba(0, 0, 255, 0.3);}.wiz-table-co=
+ntainer {border:0px !important;}.wiz-table-body {border:0px !impo=
+rtant;position:relative;margin:10px 0;overflow-x:auto;overflow-y:=
+hidden;-webkit-overflow-scrolling:touch;}.wiz-table-body table {m=
+argin:0;outline:none;}td,th {outline:none;}undefinedundefined</st=
+yle><link rel=3D"stylesheet"  name=3D"wiz_tmp_editor_style" href=3D=
+"github2.css"><link rel=3D"stylesheet"  name=3D"wiz_tmp_editor_st=
+yle" href=3D"wizToc.css"><style id=3D"wiz_code_style">.wiz-code-c=
+ontainer{position: relative; padding:8px 0; margin: 5px 25px 5px=20=
+5px;text-indent:0; text-align:left;}.CodeMirror {font-family: Con=
+solas, "Liberation Mono", Menlo, Courier, monospace; color: black=
+; font-size: 10pt; font-size: 0.83rem}.CodeMirror-lines {padding:=
+ 4px 0;}.CodeMirror pre {padding: 0 4px;}.CodeMirror-scrollbar-fi=
+ller, .CodeMirror-gutter-filler {background-color: white;}.CodeMi=
+rror-gutters {border-right: 1px solid #ddd; background-color: #f7=
+f7f7; white-space: nowrap;}.CodeMirror-linenumbers {}.CodeMirror-=
+linenumber {padding: 0 3px 0 5px; min-width: 20px; text-align: ri=
+ght; color: #999; white-space: nowrap;}.CodeMirror-guttermarker {=
+color: black;}.CodeMirror-guttermarker-subtle {color: #999;}.Code=
+Mirror-cursor {border-left: 1px solid black; border-right: none;=20=
+width: 0;}.CodeMirror div.CodeMirror-secondarycursor {border-left=
+: 1px solid silver;}.cm-fat-cursor .CodeMirror-cursor {width: aut=
+o; border: 0 !important; background: #7e7;}.cm-fat-cursor div.Cod=
+eMirror-cursors {z-index: 1;}.cm-animate-fat-cursor {width: auto;=
+ border: 0; -webkit-animation: blink 1.06s steps(1) infinite; -mo=
+z-animation: blink 1.06s steps(1) infinite; animation: blink 1.06=
+s steps(1) infinite; background-color: #7e7;}@-moz-keyframes blin=
+k {  0% {}  50% { background-color: transparent; }  100% {}}@-web=
+kit-keyframes blink {  0% {}  50% { background-color: transparent=
+; }  100% {}}@keyframes blink {  0% {}  50% { background-color: t=
+ransparent; }  100% {}}.CodeMirror-overwrite .CodeMirror-cursor {=
+}.cm-tab { display: inline-block; text-decoration: inherit; }.Cod=
+eMirror-rulers {position: absolute; left: 0; right: 0; top: -50px=
+; bottom: -20px; overflow: hidden;}.CodeMirror-ruler {border-left=
+: 1px solid #ccc; top: 0; bottom: 0; position: absolute;}.cm-s-de=
+fault .cm-header {color: blue;}.cm-s-default .cm-quote {color: #0=
+90;}.cm-negative {color: #d44;}.cm-positive {color: #292;}.cm-hea=
+der, .cm-strong {font-weight: bold;}.cm-em {font-style: italic;}.=
+cm-link {text-decoration: underline;}.cm-strikethrough {text-deco=
+ration: line-through;}.cm-s-default .cm-keyword {color: #708;}.cm=
+-s-default .cm-atom {color: #219;}.cm-s-default .cm-number {color=
+: #164;}.cm-s-default .cm-def {color: #00f;}.cm-s-default .cm-var=
+iable,.cm-s-default .cm-punctuation,.cm-s-default .cm-property,.c=
+m-s-default .cm-operator {}.cm-s-default .cm-variable-2 {color: #=
+05a;}.cm-s-default .cm-variable-3 {color: #085;}.cm-s-default .cm=
+-comment {color: #a50;}.cm-s-default .cm-string {color: #a11;}.cm=
+-s-default .cm-string-2 {color: #f50;}.cm-s-default .cm-meta {col=
+or: #555;}.cm-s-default .cm-qualifier {color: #555;}.cm-s-default=
+ .cm-builtin {color: #30a;}.cm-s-default .cm-bracket {color: #997=
+;}.cm-s-default .cm-tag {color: #170;}.cm-s-default .cm-attribute=
+ {color: #00c;}.cm-s-default .cm-hr {color: #999;}.cm-s-default .=
+cm-link {color: #00c;}.cm-s-default .cm-error {color: #f00;}.cm-i=
+nvalidchar {color: #f00;}.CodeMirror-composing { border-bottom: 2=
+px solid; }div.CodeMirror span.CodeMirror-matchingbracket {color:=
+ #0f0;}div.CodeMirror span.CodeMirror-nonmatchingbracket {color:=20=
+#f22;}.CodeMirror-matchingtag { background: rgba(255, 150, 0, .3)=
+; }.CodeMirror-activeline-background {background: #e8f2ff;}.CodeM=
+irror {position: relative; background: #f5f5f5;}.CodeMirror-scrol=
+l {overflow: hidden !important; margin-bottom: 0; margin-right: -=
+30px; padding: 16px 30px 16px 0; outline: none; position: relativ=
+e;}.CodeMirror-sizer {position: relative; border-right: 30px soli=
+d transparent;}.CodeMirror-vscrollbar, .CodeMirror-hscrollbar, .C=
+odeMirror-scrollbar-filler, .CodeMirror-gutter-filler {position:=20=
+absolute; z-index: 6; display: none;}.CodeMirror-vscrollbar {righ=
+t: 0; top: 0; overflow-x: hidden; overflow-y: scroll;}.CodeMirror=
+-hscrollbar {bottom: 0; left: 0 !important; overflow-y: hidden; o=
+verflow-x: scroll;}.CodeMirror-scrollbar-filler {right: 0; bottom=
+: 0;}.CodeMirror-gutter-filler {left: 0; bottom: 0;}.CodeMirror-g=
+utters {position: absolute; left: 0; top: -5px; min-height: 100%;=
+ z-index: 3;}.CodeMirror-gutter {white-space: normal; height: inh=
+erit; display: inline-block; vertical-align: top; margin-bottom:=20=
+-30px;}.CodeMirror-gutter-wrapper {position: absolute; z-index: 4=
+; background: none !important; border: none !important;}.CodeMirr=
+or-gutter-background {position: absolute; top: 0; bottom: 0; z-in=
+dex: 4;}.CodeMirror-gutter-elt {position: absolute; cursor: defau=
+lt; z-index: 4; text-align: center;}.CodeMirror-gutter-wrapper ::=
+selection { background-color: transparent }.CodeMirror-gutter-wra=
+pper ::-moz-selection { background-color: transparent }.CodeMirro=
+r-lines {cursor: text; min-height: 1px;}.CodeMirror pre {-moz-bor=
+der-radius: 0; -webkit-border-radius: 0; border-radius: 0; border=
+-width: 0; background: transparent; font-family: inherit; font-si=
+ze: inherit; margin: 0; white-space: pre; word-wrap: normal; line=
+-height: inherit; color: inherit; z-index: 2; position: relative;=
+ overflow: visible; -webkit-tap-highlight-color: transparent; -we=
+bkit-font-variant-ligatures: contextual; font-variant-ligatures:=20=
+contextual;}.CodeMirror-wrap pre {word-wrap: break-word; white-sp=
+ace: pre-wrap; word-break: normal;}.CodeMirror-linebackground {po=
+sition: absolute; left: 0; right: 0; top: 0; bottom: 0; z-index:=20=
+0;}.CodeMirror-linewidget {position: relative; z-index: 2; overfl=
+ow: auto;}.CodeMirror-widget {}.CodeMirror-rtl pre { direction: r=
+tl; }.CodeMirror-code {outline: none;}.CodeMirror-scroll,.CodeMir=
+ror-sizer,.CodeMirror-gutter,.CodeMirror-gutters,.CodeMirror-line=
+number {-moz-box-sizing: content-box; box-sizing: content-box;}.C=
+odeMirror-measure {position: absolute; width: 100%; height: 0; ov=
+erflow: hidden; visibility: hidden;}.CodeMirror-cursor {position:=
+ absolute; pointer-events: none;}.CodeMirror-measure pre { positi=
+on: static; }div.CodeMirror-cursors {visibility: hidden; position=
+: relative; z-index: 3;}div.CodeMirror-dragcursors {visibility: v=
+isible;}.CodeMirror-focused div.CodeMirror-cursors {visibility: v=
+isible;}.CodeMirror-selected { background: #d9d9d9; }.CodeMirror-=
+focused .CodeMirror-selected { background: #d7d4f0; }.CodeMirror-=
+crosshair { cursor: crosshair; }.CodeMirror-line::selection, .Cod=
+eMirror-line > span::selection, .CodeMirror-line > span > span::s=
+election { background: #d7d4f0; }.CodeMirror-line::-moz-selection=
+, .CodeMirror-line > span::-moz-selection, .CodeMirror-line > spa=
+n > span::-moz-selection { background: #d7d4f0; }.cm-searching {b=
+ackground: #ffa; background: rgba(255, 255, 0, .4);}.cm-force-bor=
+der { padding-right: .1px; }@media print {  .CodeMirror div.CodeM=
+irror-cursors {visibility: hidden;}}.cm-tab-wrap-hack:after { con=
+tent: ""; }span.CodeMirror-selectedtext { background: none; }.Cod=
+eMirror-activeline-background, .CodeMirror-selected {transition:=20=
+visibility 0ms 100ms;}.CodeMirror-blur .CodeMirror-activeline-bac=
+kground, .CodeMirror-blur .CodeMirror-selected {visibility:hidden=
+;}.CodeMirror-blur .CodeMirror-matchingbracket {color:inherit !im=
+portant;outline:none !important;text-decoration:none !important;}=
+</style><style name=3D"wiz_tmp_editor_style">.wiz-code-tools {dis=
+play:none;position: absolute; top: -32px; right: 0; opacity: .95;=
+ z-index: 10;}.CodeMirror-focused .wiz-code-tools {display:block;=
+}.CodeMirror-sizer {border-right: 0 !important;}body pre.prettypr=
+int {padding:0;}body pre.prettyprint code {white-space: pre;}body=
+ pre.prettyprint.linenums {box-shadow:none; overflow: auto;-webki=
+t-overflow-scrolling: touch;}body pre.prettyprint.linenums ol.lin=
+enums {box-shadow: 40px 0 0 #FBFBFC inset, 41px 0 0 #ECECF0 inset=
+; padding: 10px 10px 10px 40px !important;}</style><style name=3D=
+"wiz_tmp_editor_style">.CodeMirror-cursors {visibility: hidden !i=
+mportant;}</style></head>=0A=0A<body class=3D"markdown-body" spel=
+lcheck=3D"false" ><h2 id=3D"=E9=97=AE=E9=A2=98=E8=83=8C=E6=99=AF=EF=
+=BC=9A">=E9=97=AE=E9=A2=98=E8=83=8C=E6=99=AF=EF=BC=9A</h2>=0A=0A<=
+p>=E5=85=AC=E5=8F=B8=E7=9A=84=E5=BE=AE=E4=BF=A1=E5=85=AC=E4=BC=97=
+=E5=8F=B7=E7=94=A8=E6=88=B7=E9=87=8F=E6=AF=94=E8=BE=83=E5=A4=A7=EF=
+=BC=8C=E6=AF=8F=E4=B8=AA=E6=9C=88=E6=9C=88=E5=88=9D=E7=9A=84=E6=97=
+=B6=E5=80=99=E4=BC=9A=E7=BB=99=E7=94=A8=E6=88=B7=E6=8E=A8=E9=80=81=
+=E4=B8=8A=E4=B8=AA=E6=9C=88=E7=9A=84=E8=B4=A6=E5=8D=95=E6=95=B0=E6=
+=8D=AE=EF=BC=8C=E9=99=A4=E6=AD=A4=E4=B9=8B=E5=A4=96=E8=BF=98=E4=BC=
+=9A=E4=B8=8D=E5=AE=9A=E6=9C=9F=E7=BB=99=E7=94=A8=E6=88=B7=E6=8E=A8=
+=E9=80=81=E4=B8=80=E4=BA=9B=E8=90=A5=E9=94=80=E6=B4=BB=E5=8A=A8=E7=
+=9A=84=E6=A8=A1=E6=9D=BF=E6=B6=88=E6=81=AF=E3=80=82</p>=0A=0A<h2=20=
+id=3D"=E5=BD=93=E5=89=8D=E7=9A=84=E8=A7=A3=E5=86=B3=E5=8A=9E=E6=B3=
+=95=E6=98=AF=EF=BC=9A">=E5=BD=93=E5=89=8D=E7=9A=84=E8=A7=A3=E5=86=
+=B3=E5=8A=9E=E6=B3=95=E6=98=AF=EF=BC=9A</h2>=0A=0A<p>=E6=8A=BD=E5=
+=8F=96=E7=94=A8=E6=88=B7=E6=95=B0=E6=8D=AE=E5=90=8E=E5=B0=86=E7=94=
+=A8=E6=88=B7=E5=88=86=E7=BB=84=E6=A0=87=E8=AE=B0=EF=BC=8C=E5=88=86=
+=E4=B8=BA10=E4=B8=AA=E7=BB=84=EF=BC=8C=E7=84=B6=E5=90=8E=E5=BC=80=
+=E5=90=AF10=E4=B8=AA=E7=BA=BF=E7=A8=8B=EF=BC=8C=E4=B8=80=E4=B8=AA=
+=E7=BA=BF=E7=A8=8B=E4=B8=80=E4=B8=AA=E7=BB=84=EF=BC=8C=E4=BA=92=E4=
+=B8=8D=E7=9B=B8=E5=B9=B2=E3=80=82=E8=87=B3=E6=AD=A4=E4=B8=80=E5=B0=
+=8F=E6=97=B6=E6=8E=A8=E9=80=817W=E5=B7=A6=E5=8F=B3=E3=80=82</p>=0A=
+=0A<h2 id=3D"=E4=B8=9A=E5=8A=A1=E5=B8=8C=E6=9C=9B=E8=83=BD=E6=8F=90=
+=E9=AB=98=E9=80=9F=E5=BA=A6=EF=BC=8C=E4=BA=8E=E6=98=AF=E6=94=B9=E8=
+=BF=9B=E5=8A=9E=E6=B3=95=EF=BC=9A">=E4=B8=9A=E5=8A=A1=E5=B8=8C=E6=
+=9C=9B=E8=83=BD=E6=8F=90=E9=AB=98=E9=80=9F=E5=BA=A6=EF=BC=8C=E4=BA=
+=8E=E6=98=AF=E6=94=B9=E8=BF=9B=E5=8A=9E=E6=B3=95=EF=BC=9A</h2>=0A=
+=0A<p>=E9=87=87=E7=94=A8newCachedThreadPool=E7=BA=BF=E7=A8=8B=E6=B1=
+=A0=EF=BC=8C=E7=BB=93=E6=9E=9C=E6=98=AF=E9=80=9F=E5=BA=A6=E5=BF=AB=
+=E4=BA=86=EF=BC=8C=E5=9B=A0=E4=B8=BA=E6=8E=A8=E9=80=81=E7=9A=84to=
+mcat=E5=92=8C=E4=B8=BB=E9=A1=B9=E7=9B=AE=E5=85=AC=E7=94=A8=E4=B8=80=
+=E5=8F=B0=E6=9C=8D=E5=8A=A1=E5=99=A8=EF=BC=8C=E7=94=A8=E4=BA=86=E7=
+=BA=BF=E7=A8=8B=E6=B1=A0=E4=B9=8B=E5=90=8E=EF=BC=8C=E9=80=9F=E5=BA=
+=A6=E6=8F=90=E9=AB=98=E4=BA=86=E4=BD=86=E6=98=AF=E5=BD=B1=E5=93=8D=
+=E4=BA=86=E4=B8=BB=E9=A1=B9=E7=9B=AE=E7=9A=84=E5=93=8D=E5=BA=94=E9=
+=80=9F=E5=BA=A6=EF=BC=8C=E4=BA=8E=E6=98=AF=E6=94=BE=E5=BC=83,=E5=A4=
+=A9=E6=97=A0=E7=BB=9D=E4=BA=BA=E4=B9=8B=E8=B7=AF=EF=BC=8C=E9=87=8D=
+=E5=9C=A8=E6=80=9D=E8=80=83=E3=80=82 <br>=0A=E5=8F=91=E7=8E=B0jav=
+a=E6=9C=89=E4=BF=A1=E5=8F=B7=E9=87=8F=EF=BC=8C=E5=8F=AF=E4=BB=A5=E6=
+=8E=A7=E5=88=B6=E8=B5=84=E6=BA=90=EF=BC=8C=E4=BA=8E=E6=98=AF=E6=8A=
+=8A=E7=BA=BF=E7=A8=8B=E5=BD=93=E8=B5=84=E6=BA=90=EF=BC=8C=E6=8E=A7=
+=E5=88=B6=E5=B9=B6=E5=8F=91=E7=BA=BF=E7=A8=8B=E6=95=B0=EF=BC=8C=E8=
+=BF=99=E6=A0=B7=E4=B8=80=E6=9D=A5=E7=9A=84=E8=AF=9D=E5=B0=B1</p>=0A=
+=0A<p>=E4=BB=A3=E7=A0=81=E5=A6=82=E4=B8=8B=EF=BC=9A</p>=0A=0A<div=
+ data-mode=3D"Java" id=3D"wiz_cm_1518069163262_8847" class=3D"wiz=
+-code-container"  data-theme=3D"default"><textarea readonly=3D""=20=
+style=3D"display:none;">package com.XXXXXX;=0A=0Aimport java.util=
+.concurrent.ExecutorService;=0Aimport java.util.concurrent.Execut=
+ors;=0Aimport java.util.concurrent.Semaphore;=0A=0A/**=0A* Create=
+d by maxiaoying on 2018/2/2.=0A* DESC:=E7=BA=BF=E7=A8=8B=E4=BF=A1=
+=E5=8F=B7=E9=87=8Fdemo=0A*/=0Apublic class SemaphoreDemo {=0A   =20=
+public static void main(String[] args) {=0A        // =E7=BA=BF=E7=
+=A8=8B=E6=B1=A0=0A        ExecutorService exec =3D Executors.newC=
+achedThreadPool();        =0A        int sempNum=3D5;=0A        /=
+/=E6=8E=A7=E5=88=B65=E4=B8=AA=E5=85=B1=E4=BA=AB=E8=B5=84=E6=BA=90=
+=E7=9A=84=E4=BD=BF=E7=94=A8=EF=BC=8C=E4=BD=BF=E7=94=A8=E5=85=88=E8=
+=BF=9B=E5=85=88=E5=87=BA=E7=9A=84=E5=85=AC=E5=B9=B3=E6=A8=A1=E5=BC=
+=8F=E8=BF=9B=E8=A1=8C=E5=85=B1=E4=BA=AB;=E5=85=AC=E5=B9=B3=E6=A8=A1=
+=E5=BC=8F=E7=9A=84=E4=BF=A1=E5=8F=B7=E9=87=8F=EF=BC=8C=E5=85=88=E6=
+=9D=A5=E7=9A=84=E5=85=88=E8=8E=B7=E5=BE=97=E4=BF=A1=E5=8F=B7=E9=87=
+=8F=0A        Semaphore semp =3D new java.util.concurrent.Semapho=
+re(sempNum,true);=0A        //=E5=BD=93=E5=89=8D=E8=BF=98=E5=8F=AF=
+=E9=80=9A=E8=A1=8C=E7=BA=BF=E7=A8=8B=E6=95=B0=0A        int avail=
+ablePermits=3Dsemp.availablePermits();=0A        //=E5=89=8D=E4=BD=
+=9C=E7=94=A8=E7=9A=84=E9=98=9F=E5=88=97=E9=95=BF=E5=BA=A6=0A    =20=
+   int queueLength=3Dsemp.getQueueLength();=0A        //=E5=BD=93=
+=E5=89=8D=E6=98=AF=E5=90=A6=E6=9C=89=E7=BA=BF=E7=A8=8B=E7=AD=89=E5=
+=BE=85=E8=BF=9B=E5=85=A5=E9=98=9F=E5=88=97=0A        boolean hasQ=
+ueuedThreads=3Dsemp.hasQueuedThreads();                      =0A=20=
+       Semaphore semp =3D new java.util.concurrent.Semaphore(5,tr=
+ue);    =0A        //=E6=AF=8F=E6=AC=A1=E6=9F=A5=E8=AF=A2100=E6=9D=
+=A1=E6=95=B0=E6=8D=AE=0A        List&lt;Map&lt;String, Object&gt;=
+&gt; list =3D XXXXXXXXXX;=0A        if (list!=3Dnull){=0A       =20=
+    int len=3Dlist.size();=0A            if (len&gt;0){=0A      =20=
+         while (len&gt;0){=0A                    // =E6=A8=A1=E6=8B=
+=9F50=E4=B8=AA=E5=AE=A2=E6=88=B7=E7=AB=AF=E8=AE=BF=E9=97=AE=0A  =20=
+                 for (int index =3D 0; index &lt; len; index++) {=
+=0A                        final int NO =3D index;=0A           =20=
+            Runnable run =3D new Runnable() {=0A                =20=
+           public void run() {=0A                               =20=
+try {=0A                                    // =E8=8E=B7=E5=8F=96=
+=E8=AE=B8=E5=8F=AF=0A                                    semp.acq=
+uire();=0A                                    System.out.println(=
+"Accessing: " + NO);=0A                                    Thread=
+.sleep((long) (Math.random() * 6000));=0A                       =20=
+            System.out.println(NO+"=3D=3D=3D&gt;&gt;&gt;"+semp.ge=
+tQueueLength());=0A                                    // =E8=AE=BF=
+=E9=97=AE=E5=AE=8C=E5=90=8E=EF=BC=8C=E9=87=8A=E6=94=BE=0A       =20=
+                            semp.release();=0A                  =20=
+                 //availablePermits()=E6=8C=87=E7=9A=84=E6=98=AF=E5=
+=BD=93=E5=89=8D=E4=BF=A1=E5=8F=B7=E7=81=AF=E5=BA=93=E4=B8=AD=E6=9C=
+=89=E5=A4=9A=E5=B0=91=E4=B8=AA=E5=8F=AF=E4=BB=A5=E8=A2=AB=E4=BD=BF=
+=E7=94=A8=0A                                    System.out.printl=
+n("-----------------" + semp.availablePermits());=0A            =20=
+                   } catch (InterruptedException e) {=0A        =20=
+                           e.printStackTrace();=0A              =20=
+                 }=0A                            }=0A           =20=
+            };=0A                        executorPool.execute(run=
+);=0A                    }=0A                    //=E7=AD=89=E5=BE=
+=85=E4=B8=8A=E9=9D=A2=E7=9A=84=E7=BA=BF=E7=A8=8B=E6=89=A7=E8=A1=8C=
+=E5=AE=8C=E6=AF=95=0A                    if (!hasQueuedThreads  &=
+amp;&amp; availablePermits=3D=3DsempNum &amp;&amp; queueLength=3D=
+=3D0){=0A                        System.out.println("=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=E7=AC=AC=E4=BA=8C=E8=BD=AE");=0A             =20=
+          if (PushConfig.isPush()){=0A                          =20=
+ list =3DXXXXXXXXXXXXXX;=0A                            len=3Dlist=
+.size();=0A                        }else {=0A                   =20=
+        return;=0A                        }=0A                  =20=
+ }=0A                }=0A            }=0A        }else {=0A     =20=
+      logger.info("=E6=9F=A5=E8=AF=A2list=3D"+list);=0A        }=0A=
+    }=0A}</textarea><wiz_code_mirror><div class=3D"CodeMirror cm-=
+s-default CodeMirror-wrap" data-id=3D"wiz_cm_1518069163262_8847">=
+<div style=3D"overflow: hidden; position: relative; width: 3px; h=
+eight: 0px; top: 20px; left: 34px;"><textarea autocorrect=3D"off"=
+ autocapitalize=3D"off" spellcheck=3D"false" style=3D"position: a=
+bsolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em;=20=
+outline: none;" tabindex=3D"0" readonly=3D""></textarea></div><di=
+v class=3D"CodeMirror-scrollbar-filler" cm-not-content=3D"true"><=
+/div><div class=3D"CodeMirror-gutter-filler" cm-not-content=3D"tr=
+ue"></div><div class=3D"CodeMirror-scroll" tabindex=3D"-1"><div c=
+lass=3D"CodeMirror-sizer" style=3D"margin-left: 30px; margin-bott=
+om: 0px; border-right-width: 30px; min-height: 1457px; padding-ri=
+ght: 0px; padding-bottom: 0px;"><div style=3D"position: relative;=
+ top: 0px;"><div class=3D"CodeMirror-lines" role=3D"presentation"=
+><div role=3D"presentation" style=3D"position: relative; outline:=
+ none;"><div class=3D"CodeMirror-measure"><span><span>=E2=80=8B</=
+span>x</span></div><div class=3D"CodeMirror-measure"></div><div s=
+tyle=3D"position: relative; z-index: 1;"></div><div class=3D"Code=
+Mirror-cursors"><div class=3D"CodeMirror-cursor" style=3D"left: 4=
+px; top: 0px; height: 21px;">&nbsp;</div></div><div class=3D"Code=
+Mirror-code" role=3D"presentation"><div style=3D"position: relati=
+ve;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30p=
+x;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" st=
+yle=3D"left: 0px; width: 21px;">1</div></div><pre class=3D" CodeM=
+irror-line " role=3D"presentation"><span role=3D"presentation" st=
+yle=3D"padding-right: 0.1px;"><span class=3D"cm-keyword">package<=
+/span> <span class=3D"cm-def">com</span>.<span class=3D"cm-variab=
+le">XXXXXX</span>;</span></pre></div><div style=3D"position: rela=
+tive;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -3=
+0px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt"=20=
+style=3D"left: 0px; width: 21px;">2</div></div><pre class=3D" Cod=
+eMirror-line " role=3D"presentation"><span role=3D"presentation"=20=
+style=3D"padding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B</spa=
+n></span></pre></div><div style=3D"position: relative;"><div clas=
+s=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=
+=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0=
+px; width: 21px;">3</div></div><pre class=3D" CodeMirror-line " r=
+ole=3D"presentation"><span role=3D"presentation" style=3D"padding=
+-right: 0.1px;"><span class=3D"cm-keyword">import</span> <span cl=
+ass=3D"cm-variable">java</span>.<span class=3D"cm-variable">util<=
+/span>.<span class=3D"cm-variable">concurrent</span>.<span class=3D=
+"cm-variable">ExecutorService</span>;</span></pre></div><div styl=
+e=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper=
+" style=3D"left: -30px;"><div class=3D"CodeMirror-linenumber Code=
+Mirror-gutter-elt" style=3D"left: 0px; width: 21px;">4</div></div=
+><pre class=3D" CodeMirror-line " role=3D"presentation"><span rol=
+e=3D"presentation" style=3D"padding-right: 0.1px;"><span class=3D=
+"cm-keyword">import</span> <span class=3D"cm-variable">java</span=
+>.<span class=3D"cm-variable">util</span>.<span class=3D"cm-varia=
+ble">concurrent</span>.<span class=3D"cm-variable">Executors</spa=
+n>;</span></pre></div><div style=3D"position: relative;"><div cla=
+ss=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div clas=
+s=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left:=20=
+0px; width: 21px;">5</div></div><pre class=3D" CodeMirror-line "=20=
+role=3D"presentation"><span role=3D"presentation" style=3D"paddin=
+g-right: 0.1px;"><span class=3D"cm-keyword">import</span> <span c=
+lass=3D"cm-variable">java</span>.<span class=3D"cm-variable">util=
+</span>.<span class=3D"cm-variable">concurrent</span>.<span class=
+=3D"cm-variable">Semaphore</span>;</span></pre></div><div style=3D=
+"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" st=
+yle=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirr=
+or-gutter-elt" style=3D"left: 0px; width: 21px;">6</div></div><pr=
+e class=3D" CodeMirror-line " role=3D"presentation"><span role=3D=
+"presentation" style=3D"padding-right: 0.1px;"><span cm-text=3D""=
+>=E2=80=8B</span></span></pre></div><div style=3D"position: relat=
+ive;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30=
+px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" s=
+tyle=3D"left: 0px; width: 21px;">7</div></div><pre class=3D" Code=
+Mirror-line " role=3D"presentation"><span role=3D"presentation" s=
+tyle=3D"padding-right: 0.1px;"><span class=3D"cm-comment">/**</sp=
+an></span></pre></div><div style=3D"position: relative;"><div cla=
+ss=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div clas=
+s=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left:=20=
+0px; width: 21px;">8</div></div><pre class=3D" CodeMirror-line "=20=
+role=3D"presentation"><span role=3D"presentation" style=3D"paddin=
+g-right: 0.1px;"><span class=3D"cm-comment">* Created by maxiaoyi=
+ng on 2018/2/2.</span></span></pre></div><div style=3D"position:=20=
+relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left=
+: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-e=
+lt" style=3D"left: 0px; width: 21px;">9</div></div><pre class=3D"=
+ CodeMirror-line " role=3D"presentation"><span role=3D"presentati=
+on" style=3D"padding-right: 0.1px;"><span class=3D"cm-comment">*=20=
+DESC:=E7=BA=BF=E7=A8=8B=E4=BF=A1=E5=8F=B7=E9=87=8Fdemo</span></sp=
+an></pre></div><div style=3D"position: relative;"><div class=3D"C=
+odeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"Co=
+deMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; wi=
+dth: 21px;">10</div></div><pre class=3D" CodeMirror-line " role=3D=
+"presentation"><span role=3D"presentation" style=3D"padding-right=
+: 0.1px;"><span class=3D"cm-comment">*/</span></span></pre></div>=
+<div style=3D"position: relative;"><div class=3D"CodeMirror-gutte=
+r-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror-linenu=
+mber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">11<=
+/div></div><pre class=3D" CodeMirror-line " role=3D"presentation"=
+><span role=3D"presentation" style=3D"padding-right: 0.1px;"><spa=
+n class=3D"cm-keyword">public</span> <span class=3D"cm-keyword">c=
+lass</span> <span class=3D"cm-def">SemaphoreDemo</span> {</span><=
+/pre></div><div style=3D"position: relative;"><div class=3D"CodeM=
+irror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMi=
+rror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width:=
+ 21px;">12</div></div><pre class=3D" CodeMirror-line " role=3D"pr=
+esentation"><span role=3D"presentation" style=3D"padding-right: 0=
+.1px;"> &nbsp; &nbsp;<span class=3D"cm-keyword">public</span> <sp=
+an class=3D"cm-keyword">static</span> <span class=3D"cm-type">voi=
+d</span> <span class=3D"cm-variable">main</span>(<span class=3D"c=
+m-type">String</span>[] <span class=3D"cm-variable">args</span>)=20=
+{</span></pre></div><div style=3D"position: relative;"><div class=
+=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D=
+"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px;=
+ width: 21px;">13</div></div><pre class=3D" CodeMirror-line " rol=
+e=3D"presentation"><span role=3D"presentation" style=3D"padding-r=
+ight: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"cm-comme=
+nt">// =E7=BA=BF=E7=A8=8B=E6=B1=A0</span></span></pre></div><div=20=
+style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wra=
+pper" style=3D"left: -30px;"><div class=3D"CodeMirror-linenumber=20=
+CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">14</div>=
+</div><pre class=3D" CodeMirror-line " role=3D"presentation"><spa=
+n role=3D"presentation" style=3D"padding-right: 0.1px;"> &nbsp; &=
+nbsp; &nbsp; &nbsp;<span class=3D"cm-variable">ExecutorService</s=
+pan> <span class=3D"cm-variable">exec</span> <span class=3D"cm-op=
+erator">=3D</span> <span class=3D"cm-variable">Executors</span>.<=
+span class=3D"cm-variable">newCachedThreadPool</span>(); &nbsp; &=
+nbsp; &nbsp; &nbsp;</span></pre></div><div style=3D"position: rel=
+ative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -=
+30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt"=
+ style=3D"left: 0px; width: 21px;">15</div></div><pre class=3D" C=
+odeMirror-line " role=3D"presentation"><span role=3D"presentation=
+" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp;<sp=
+an class=3D"cm-type">int</span> <span class=3D"cm-variable">sempN=
+um</span><span class=3D"cm-operator">=3D</span><span class=3D"cm-=
+number">5</span>;</span></pre></div><div style=3D"position: relat=
+ive;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30=
+px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" s=
+tyle=3D"left: 0px; width: 21px;">16</div></div><pre class=3D" Cod=
+eMirror-line " role=3D"presentation"><span role=3D"presentation"=20=
+style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp;<span=
+ class=3D"cm-comment">//=E6=8E=A7=E5=88=B65=E4=B8=AA=E5=85=B1=E4=BA=
+=AB=E8=B5=84=E6=BA=90=E7=9A=84=E4=BD=BF=E7=94=A8=EF=BC=8C=E4=BD=BF=
+=E7=94=A8=E5=85=88=E8=BF=9B=E5=85=88=E5=87=BA=E7=9A=84=E5=85=AC=E5=
+=B9=B3=E6=A8=A1=E5=BC=8F=E8=BF=9B=E8=A1=8C=E5=85=B1=E4=BA=AB;=E5=85=
+=AC=E5=B9=B3=E6=A8=A1=E5=BC=8F=E7=9A=84=E4=BF=A1=E5=8F=B7=E9=87=8F=
+=EF=BC=8C=E5=85=88=E6=9D=A5=E7=9A=84=E5=85=88=E8=8E=B7=E5=BE=97=E4=
+=BF=A1=E5=8F=B7=E9=87=8F</span></span></pre></div><div style=3D"p=
+osition: relative;"><div class=3D"CodeMirror-gutter-wrapper" styl=
+e=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror=
+-gutter-elt" style=3D"left: 0px; width: 21px;">17</div></div><pre=
+ class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"=
+presentation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbs=
+p; &nbsp;<span class=3D"cm-variable">Semaphore</span> <span class=
+=3D"cm-variable">semp</span> <span class=3D"cm-operator">=3D</spa=
+n> <span class=3D"cm-keyword">new</span> <span class=3D"cm-variab=
+le">java</span>.<span class=3D"cm-variable">util</span>.<span cla=
+ss=3D"cm-variable">concurrent</span>.<span class=3D"cm-variable">=
+Semaphore</span>(<span class=3D"cm-variable">sempNum</span>,<span=
+ class=3D"cm-atom">true</span>);</span></pre></div><div style=3D"=
+position: relative;"><div class=3D"CodeMirror-gutter-wrapper" sty=
+le=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirro=
+r-gutter-elt" style=3D"left: 0px; width: 21px;">18</div></div><pr=
+e class=3D" CodeMirror-line " role=3D"presentation"><span role=3D=
+"presentation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nb=
+sp; &nbsp;<span class=3D"cm-comment">//=E5=BD=93=E5=89=8D=E8=BF=98=
+=E5=8F=AF=E9=80=9A=E8=A1=8C=E7=BA=BF=E7=A8=8B=E6=95=B0</span></sp=
+an></pre></div><div style=3D"position: relative;"><div class=3D"C=
+odeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"Co=
+deMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; wi=
+dth: 21px;">19</div></div><pre class=3D" CodeMirror-line " role=3D=
+"presentation"><span role=3D"presentation" style=3D"padding-right=
+: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"cm-type">int=
+</span> <span class=3D"cm-variable">availablePermits</span><span=20=
+class=3D"cm-operator">=3D</span><span class=3D"cm-variable">semp<=
+/span>.<span class=3D"cm-variable">availablePermits</span>();</sp=
+an></pre></div><div style=3D"position: relative;"><div class=3D"C=
+odeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"Co=
+deMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; wi=
+dth: 21px;">20</div></div><pre class=3D" CodeMirror-line " role=3D=
+"presentation"><span role=3D"presentation" style=3D"padding-right=
+: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"cm-comment">=
+//=E5=89=8D=E4=BD=9C=E7=94=A8=E7=9A=84=E9=98=9F=E5=88=97=E9=95=BF=
+=E5=BA=A6</span></span></pre></div><div style=3D"position: relati=
+ve;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30p=
+x;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" st=
+yle=3D"left: 0px; width: 21px;">21</div></div><pre class=3D" Code=
+Mirror-line " role=3D"presentation"><span role=3D"presentation" s=
+tyle=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp;<span=20=
+class=3D"cm-type">int</span> <span class=3D"cm-variable">queueLen=
+gth</span><span class=3D"cm-operator">=3D</span><span class=3D"cm=
+-variable">semp</span>.<span class=3D"cm-variable">getQueueLength=
+</span>();</span></pre></div><div style=3D"position: relative;"><=
+div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><d=
+iv class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D=
+"left: 0px; width: 21px;">22</div></div><pre class=3D" CodeMirror=
+-line " role=3D"presentation"><span role=3D"presentation" style=3D=
+"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D=
+"cm-comment">//=E5=BD=93=E5=89=8D=E6=98=AF=E5=90=A6=E6=9C=89=E7=BA=
+=BF=E7=A8=8B=E7=AD=89=E5=BE=85=E8=BF=9B=E5=85=A5=E9=98=9F=E5=88=97=
+</span></span></pre></div><div style=3D"position: relative;"><div=
+ class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div=20=
+class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"le=
+ft: 0px; width: 21px;">23</div></div><pre class=3D" CodeMirror-li=
+ne " role=3D"presentation"><span role=3D"presentation" style=3D"p=
+adding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"=
+cm-type">boolean</span> <span class=3D"cm-variable">hasQueuedThre=
+ads</span><span class=3D"cm-operator">=3D</span><span class=3D"cm=
+-variable">semp</span>.<span class=3D"cm-variable">hasQueuedThrea=
+ds</span>(); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp;</span></pre></div><div style=3D"position=
+: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"le=
+ft: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter=
+-elt" style=3D"left: 0px; width: 21px;">24</div></div><pre class=3D=
+" CodeMirror-line " role=3D"presentation"><span role=3D"presentat=
+ion" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp;=
+<span class=3D"cm-variable">Semaphore</span> <span class=3D"cm-va=
+riable">semp</span> <span class=3D"cm-operator">=3D</span> <span=20=
+class=3D"cm-keyword">new</span> <span class=3D"cm-variable">java<=
+/span>.<span class=3D"cm-variable">util</span>.<span class=3D"cm-=
+variable">concurrent</span>.<span class=3D"cm-variable">Semaphore=
+</span>(<span class=3D"cm-number">5</span>,<span class=3D"cm-atom=
+">true</span>); &nbsp; &nbsp;</span></pre></div><div style=3D"pos=
+ition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D=
+"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gut=
+ter-elt" style=3D"left: 0px; width: 21px;">25</div></div><pre cla=
+ss=3D" CodeMirror-line " role=3D"presentation"><span role=3D"pres=
+entation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &=
+nbsp;<span class=3D"cm-comment">//=E6=AF=8F=E6=AC=A1=E6=9F=A5=E8=AF=
+=A2100=E6=9D=A1=E6=95=B0=E6=8D=AE</span></span></pre></div><div s=
+tyle=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrap=
+per" style=3D"left: -30px;"><div class=3D"CodeMirror-linenumber C=
+odeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">26</div><=
+/div><pre class=3D" CodeMirror-line " role=3D"presentation"><span=
+ role=3D"presentation" style=3D"padding-right: 0.1px;"> &nbsp; &n=
+bsp; &nbsp; &nbsp;<span class=3D"cm-variable">List</span><span cl=
+ass=3D"cm-operator">&lt;</span><span class=3D"cm-variable">Map</s=
+pan><span class=3D"cm-operator">&lt;</span><span class=3D"cm-type=
+">String</span>, <span class=3D"cm-type">Object</span><span class=
+=3D"cm-operator">&gt;&gt;</span> <span class=3D"cm-variable">list=
+</span> <span class=3D"cm-operator">=3D</span> <span class=3D"cm-=
+variable">XXXXXXXXXX</span>;</span></pre></div><div style=3D"posi=
+tion: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D=
+"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gut=
+ter-elt" style=3D"left: 0px; width: 21px;">27</div></div><pre cla=
+ss=3D" CodeMirror-line " role=3D"presentation"><span role=3D"pres=
+entation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &=
+nbsp;<span class=3D"cm-keyword">if</span> (<span class=3D"cm-vari=
+able">list</span><span class=3D"cm-operator">!=3D</span><span cla=
+ss=3D"cm-atom">null</span>){</span></pre></div><div style=3D"posi=
+tion: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D=
+"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gut=
+ter-elt" style=3D"left: 0px; width: 21px;">28</div></div><pre cla=
+ss=3D" CodeMirror-line " role=3D"presentation"><span role=3D"pres=
+entation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp;<span class=3D"cm-type">int</span> <span class=
+=3D"cm-variable">len</span><span class=3D"cm-operator">=3D</span>=
+<span class=3D"cm-variable">list</span>.<span class=3D"cm-variabl=
+e">size</span>();</span></pre></div><div style=3D"position: relat=
+ive;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30=
+px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" s=
+tyle=3D"left: 0px; width: 21px;">29</div></div><pre class=3D" Cod=
+eMirror-line " role=3D"presentation"><span role=3D"presentation"=20=
+style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp;<span class=3D"cm-keyword">if</span> (<span class=3D"cm-=
+variable">len</span><span class=3D"cm-operator">&gt;</span><span=20=
+class=3D"cm-number">0</span>){</span></pre></div><div style=3D"po=
+sition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=
+=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-=
+gutter-elt" style=3D"left: 0px; width: 21px;">30</div></div><pre=20=
+class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"p=
+resentation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"cm-keyword">wh=
+ile</span> (<span class=3D"cm-variable">len</span><span class=3D"=
+cm-operator">&gt;</span><span class=3D"cm-number">0</span>){</spa=
+n></pre></div><div style=3D"position: relative;"><div class=3D"Co=
+deMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"Cod=
+eMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; wid=
+th: 21px;">31</div></div><pre class=3D" CodeMirror-line " role=3D=
+"presentation"><span role=3D"presentation" style=3D"padding-right=
+: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp;<span class=3D"cm-comment">// =E6=A8=A1=E6=8B=9F50=
+=E4=B8=AA=E5=AE=A2=E6=88=B7=E7=AB=AF=E8=AE=BF=E9=97=AE</span></sp=
+an></pre></div><div style=3D"position: relative;"><div class=3D"C=
+odeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"Co=
+deMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; wi=
+dth: 21px;">32</div></div><pre class=3D" CodeMirror-line " role=3D=
+"presentation"><span role=3D"presentation" style=3D"padding-right=
+: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp;<span class=3D"cm-keyword">for</span> (<span class=
+=3D"cm-type">int</span> <span class=3D"cm-variable">index</span>=20=
+<span class=3D"cm-operator">=3D</span> <span class=3D"cm-number">=
+0</span>; <span class=3D"cm-variable">index</span> <span class=3D=
+"cm-operator">&lt;</span> <span class=3D"cm-variable">len</span>;=
+ <span class=3D"cm-variable">index</span><span class=3D"cm-operat=
+or">++</span>) {</span></pre></div><div style=3D"position: relati=
+ve;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30p=
+x;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" st=
+yle=3D"left: 0px; width: 21px;">33</div></div><pre class=3D" Code=
+Mirror-line " role=3D"presentation"><span role=3D"presentation" s=
+tyle=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"=
+cm-keyword">final</span> <span class=3D"cm-type">int</span> <span=
+ class=3D"cm-variable">NO</span> <span class=3D"cm-operator">=3D<=
+/span> <span class=3D"cm-variable">index</span>;</span></pre></di=
+v><div style=3D"position: relative;"><div class=3D"CodeMirror-gut=
+ter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror-line=
+number CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">3=
+4</div></div><pre class=3D" CodeMirror-line " role=3D"presentatio=
+n"><span role=3D"presentation" style=3D"padding-right: 0.1px;"> &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp;<span class=3D"cm-variable">Runnable</span> <spa=
+n class=3D"cm-variable">run</span> <span class=3D"cm-operator">=3D=
+</span> <span class=3D"cm-keyword">new</span> <span class=3D"cm-v=
+ariable">Runnable</span>() {</span></pre></div><div style=3D"posi=
+tion: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D=
+"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gut=
+ter-elt" style=3D"left: 0px; width: 21px;">35</div></div><pre cla=
+ss=3D" CodeMirror-line " role=3D"presentation"><span role=3D"pres=
+entation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp;<span class=3D"cm-keyword">public</span> <span class=3D=
+"cm-type">void</span> <span class=3D"cm-variable">run</span>() {<=
+/span></pre></div><div style=3D"position: relative;"><div class=3D=
+"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"=
+CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px;=20=
+width: 21px;">36</div></div><pre class=3D" CodeMirror-line " role=
+=3D"presentation"><span role=3D"presentation" style=3D"padding-ri=
+ght: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span=
+ class=3D"cm-keyword">try</span> {</span></pre></div><div style=3D=
+"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" st=
+yle=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirr=
+or-gutter-elt" style=3D"left: 0px; width: 21px;">37</div></div><p=
+re class=3D" CodeMirror-line " role=3D"presentation"><span role=3D=
+"presentation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"cm-comm=
+ent">// =E8=8E=B7=E5=8F=96=E8=AE=B8=E5=8F=AF</span></span></pre><=
+/div><div style=3D"position: relative;"><div class=3D"CodeMirror-=
+gutter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror-l=
+inenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;=
+">38</div></div><pre class=3D" CodeMirror-line " role=3D"presenta=
+tion"><span role=3D"presentation" style=3D"padding-right: 0.1px;"=
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sp=
+an class=3D"cm-variable">semp</span>.<span class=3D"cm-variable">=
+acquire</span>();</span></pre></div><div style=3D"position: relat=
+ive;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30=
+px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" s=
+tyle=3D"left: 0px; width: 21px;">39</div></div><pre class=3D" Cod=
+eMirror-line " role=3D"presentation"><span role=3D"presentation"=20=
+style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"cm-variable">System</s=
+pan>.<span class=3D"cm-variable">out</span>.<span class=3D"cm-var=
+iable">println</span>(<span class=3D"cm-string">"Accessing: "</sp=
+an> <span class=3D"cm-operator">+</span> <span class=3D"cm-variab=
+le">NO</span>);</span></pre></div><div style=3D"position: relativ=
+e;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px=
+;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" sty=
+le=3D"left: 0px; width: 21px;">40</div></div><pre class=3D" CodeM=
+irror-line " role=3D"presentation"><span role=3D"presentation" st=
+yle=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"cm-variable">Thread</spa=
+n>.<span class=3D"cm-variable">sleep</span>((<span class=3D"cm-ty=
+pe">long</span>) (<span class=3D"cm-variable">Math</span>.<span c=
+lass=3D"cm-variable">random</span>() <span class=3D"cm-operator">=
+*</span> <span class=3D"cm-number">6000</span>));</span></pre></d=
+iv><div style=3D"position: relative;"><div class=3D"CodeMirror-gu=
+tter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror-lin=
+enumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">=
+41</div></div><pre class=3D" CodeMirror-line " role=3D"presentati=
+on"><span role=3D"presentation" style=3D"padding-right: 0.1px;">=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span=
+ class=3D"cm-variable">System</span>.<span class=3D"cm-variable">=
+out</span>.<span class=3D"cm-variable">println</span>(<span class=
+=3D"cm-variable">NO</span><span class=3D"cm-operator">+</span><sp=
+an class=3D"cm-string">"=3D=3D=3D&gt;&gt;&gt;"</span><span class=3D=
+"cm-operator">+</span><span class=3D"cm-variable">semp</span>.<sp=
+an class=3D"cm-variable">getQueueLength</span>());</span></pre></=
+div><div style=3D"position: relative;"><div class=3D"CodeMirror-g=
+utter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror-li=
+nenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;"=
+>42</div></div><pre class=3D" CodeMirror-line " role=3D"presentat=
+ion"><span role=3D"presentation" style=3D"padding-right: 0.1px;">=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<spa=
+n class=3D"cm-comment">// =E8=AE=BF=E9=97=AE=E5=AE=8C=E5=90=8E=EF=
+=BC=8C=E9=87=8A=E6=94=BE</span></span></pre></div><div style=3D"p=
+osition: relative;"><div class=3D"CodeMirror-gutter-wrapper" styl=
+e=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror=
+-gutter-elt" style=3D"left: 0px; width: 21px;">43</div></div><pre=
+ class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"=
+presentation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"cm-varia=
+ble">semp</span>.<span class=3D"cm-variable">release</span>();</s=
+pan></pre></div><div style=3D"position: relative;"><div class=3D"=
+CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"C=
+odeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; w=
+idth: 21px;">44</div></div><pre class=3D" CodeMirror-line " role=3D=
+"presentation"><span role=3D"presentation" style=3D"padding-right=
+: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp;<span class=3D"cm-comment">//availablePermits()=E6=8C=87=E7=
+=9A=84=E6=98=AF=E5=BD=93=E5=89=8D=E4=BF=A1=E5=8F=B7=E7=81=AF=E5=BA=
+=93=E4=B8=AD=E6=9C=89=E5=A4=9A=E5=B0=91=E4=B8=AA=E5=8F=AF=E4=BB=A5=
+=E8=A2=AB=E4=BD=BF=E7=94=A8</span></span></pre></div><div style=3D=
+"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" st=
+yle=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirr=
+or-gutter-elt" style=3D"left: 0px; width: 21px;">45</div></div><p=
+re class=3D" CodeMirror-line " role=3D"presentation"><span role=3D=
+"presentation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"cm-vari=
+able">System</span>.<span class=3D"cm-variable">out</span>.<span=20=
+class=3D"cm-variable">println</span>(<span class=3D"cm-string">"-=
+----------------"</span> <span class=3D"cm-operator">+</span> <sp=
+an class=3D"cm-variable">semp</span>.<span class=3D"cm-variable">=
+availablePermits</span>());</span></pre></div><div style=3D"posit=
+ion: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D=
+"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gut=
+ter-elt" style=3D"left: 0px; width: 21px;">46</div></div><pre cla=
+ss=3D" CodeMirror-line " role=3D"presentation"><span role=3D"pres=
+entation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp;  } <span class=3D"cm-keyword">catch</span> (<sp=
+an class=3D"cm-variable">InterruptedException</span> <span class=3D=
+"cm-variable">e</span>) {</span></pre></div><div style=3D"positio=
+n: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"l=
+eft: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutte=
+r-elt" style=3D"left: 0px; width: 21px;">47</div></div><pre class=
+=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presen=
+tation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"cm-variable">e=
+</span>.<span class=3D"cm-variable">printStackTrace</span>();</sp=
+an></pre></div><div style=3D"position: relative;"><div class=3D"C=
+odeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"Co=
+deMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; wi=
+dth: 21px;">48</div></div><pre class=3D" CodeMirror-line " role=3D=
+"presentation"><span role=3D"presentation" style=3D"padding-right=
+: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  }</span></pre=
+></div><div style=3D"position: relative;"><div class=3D"CodeMirro=
+r-gutter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror=
+-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21p=
+x;">49</div></div><pre class=3D" CodeMirror-line " role=3D"presen=
+tation"><span role=3D"presentation" style=3D"padding-right: 0.1px=
+;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp;  }</span></pre></div><div style=3D"=
+position: relative;"><div class=3D"CodeMirror-gutter-wrapper" sty=
+le=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirro=
+r-gutter-elt" style=3D"left: 0px; width: 21px;">50</div></div><pr=
+e class=3D" CodeMirror-line " role=3D"presentation"><span role=3D=
+"presentation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  };</=
+span></pre></div><div style=3D"position: relative;"><div class=3D=
+"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"=
+CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px;=20=
+width: 21px;">51</div></div><pre class=3D" CodeMirror-line " role=
+=3D"presentation"><span role=3D"presentation" style=3D"padding-ri=
+ght: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"cm-variable">execu=
+torPool</span>.<span class=3D"cm-variable">execute</span>(<span c=
+lass=3D"cm-variable">run</span>);</span></pre></div><div style=3D=
+"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" st=
+yle=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirr=
+or-gutter-elt" style=3D"left: 0px; width: 21px;">52</div></div><p=
+re class=3D" CodeMirror-line " role=3D"presentation"><span role=3D=
+"presentation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  }</span></pre></di=
+v><div style=3D"position: relative;"><div class=3D"CodeMirror-gut=
+ter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror-line=
+number CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">5=
+3</div></div><pre class=3D" CodeMirror-line " role=3D"presentatio=
+n"><span role=3D"presentation" style=3D"padding-right: 0.1px;"> &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp;<span class=3D"cm-comment">//=E7=AD=89=E5=BE=85=E4=B8=8A=E9=9D=
+=A2=E7=9A=84=E7=BA=BF=E7=A8=8B=E6=89=A7=E8=A1=8C=E5=AE=8C=E6=AF=95=
+</span></span></pre></div><div style=3D"position: relative;"><div=
+ class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div=20=
+class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"le=
+ft: 0px; width: 21px;">54</div></div><pre class=3D" CodeMirror-li=
+ne " role=3D"presentation"><span role=3D"presentation" style=3D"p=
+adding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"cm-keyword">if</span> (=
+<span class=3D"cm-operator">!</span><span class=3D"cm-variable">h=
+asQueuedThreads</span> &nbsp;<span class=3D"cm-operator">&amp;&am=
+p;</span> <span class=3D"cm-variable">availablePermits</span><spa=
+n class=3D"cm-operator">=3D=3D</span><span class=3D"cm-variable">=
+sempNum</span> <span class=3D"cm-operator">&amp;&amp;</span> <spa=
+n class=3D"cm-variable">queueLength</span><span class=3D"cm-opera=
+tor">=3D=3D</span><span class=3D"cm-number">0</span>){</span></pr=
+e></div><div style=3D"position: relative;"><div class=3D"CodeMirr=
+or-gutter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirro=
+r-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21=
+px;">55</div></div><pre class=3D" CodeMirror-line " role=3D"prese=
+ntation"><span role=3D"presentation" style=3D"padding-right: 0.1p=
+x;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp;<span class=3D"cm-variable">System</span>.=
+<span class=3D"cm-variable">out</span>.<span class=3D"cm-variable=
+">println</span>(<span class=3D"cm-string">"=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=E7=AC=AC=E4=BA=8C=E8=BD=AE"</span>);</span></pre></div>=
+<div style=3D"position: relative;"><div class=3D"CodeMirror-gutte=
+r-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror-linenu=
+mber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">56<=
+/div></div><pre class=3D" CodeMirror-line " role=3D"presentation"=
+><span role=3D"presentation" style=3D"padding-right: 0.1px;"> &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp;<span class=3D"cm-keyword">if</span> (<span class=3D=
+"cm-variable">PushConfig</span>.<span class=3D"cm-variable">isPus=
+h</span>()){</span></pre></div><div style=3D"position: relative;"=
+><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;">=
+<div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D=
+"left: 0px; width: 21px;">57</div></div><pre class=3D" CodeMirror=
+-line " role=3D"presentation"><span role=3D"presentation" style=3D=
+"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span cl=
+ass=3D"cm-variable">list</span> <span class=3D"cm-operator">=3D</=
+span><span class=3D"cm-variable">XXXXXXXXXXXXXX</span>;</span></p=
+re></div><div style=3D"position: relative;"><div class=3D"CodeMir=
+ror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirr=
+or-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 2=
+1px;">58</div></div><pre class=3D" CodeMirror-line " role=3D"pres=
+entation"><span role=3D"presentation" style=3D"padding-right: 0.1=
+px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D"cm-variable"=
+>len</span><span class=3D"cm-operator">=3D</span><span class=3D"c=
+m-variable">list</span>.<span class=3D"cm-variable">size</span>()=
+;</span></pre></div><div style=3D"position: relative;"><div class=
+=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D=
+"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px;=
+ width: 21px;">59</div></div><pre class=3D" CodeMirror-line " rol=
+e=3D"presentation"><span role=3D"presentation" style=3D"padding-r=
+ight: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp;  }<span class=3D"cm-keyword">else</spa=
+n> {</span></pre></div><div style=3D"position: relative;"><div cl=
+ass=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div cla=
+ss=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left:=
+ 0px; width: 21px;">60</div></div><pre class=3D" CodeMirror-line=20=
+" role=3D"presentation"><span role=3D"presentation" style=3D"padd=
+ing-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class=3D=
+"cm-keyword">return</span>;</span></pre></div><div style=3D"posit=
+ion: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D=
+"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gut=
+ter-elt" style=3D"left: 0px; width: 21px;">61</div></div><pre cla=
+ss=3D" CodeMirror-line " role=3D"presentation"><span role=3D"pres=
+entation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  }</span><=
+/pre></div><div style=3D"position: relative;"><div class=3D"CodeM=
+irror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMi=
+rror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width:=
+ 21px;">62</div></div><pre class=3D" CodeMirror-line " role=3D"pr=
+esentation"><span role=3D"presentation" style=3D"padding-right: 0=
+.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp;  }</span></pre></div><div style=3D"position: relative;"><di=
+v class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div=
+ class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"l=
+eft: 0px; width: 21px;">63</div></div><pre class=3D" CodeMirror-l=
+ine " role=3D"presentation"><span role=3D"presentation" style=3D"=
+padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp;  }</span></pre></div><div style=3D"position: relative;"><=
+div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><d=
+iv class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D=
+"left: 0px; width: 21px;">64</div></div><pre class=3D" CodeMirror=
+-line " role=3D"presentation"><span role=3D"presentation" style=3D=
+"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  }</s=
+pan></pre></div><div style=3D"position: relative;"><div class=3D"=
+CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"C=
+odeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; w=
+idth: 21px;">65</div></div><pre class=3D" CodeMirror-line " role=3D=
+"presentation"><span role=3D"presentation" style=3D"padding-right=
+: 0.1px;"> &nbsp; &nbsp; &nbsp;  }<span class=3D"cm-keyword">else=
+</span> {</span></pre></div><div style=3D"position: relative;"><d=
+iv class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><di=
+v class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"=
+left: 0px; width: 21px;">66</div></div><pre class=3D" CodeMirror-=
+line " role=3D"presentation"><span role=3D"presentation" style=3D=
+"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;<span class=3D"cm-variable">logger</span>.<span class=3D"cm-vari=
+able">info</span>(<span class=3D"cm-string">"=E6=9F=A5=E8=AF=A2li=
+st=3D"</span><span class=3D"cm-operator">+</span><span class=3D"c=
+m-variable">list</span>);</span></pre></div><div style=3D"positio=
+n: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"l=
+eft: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutte=
+r-elt" style=3D"left: 0px; width: 21px;">67</div></div><pre class=
+=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presen=
+tation" style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp;  }<=
+/span></pre></div><div style=3D"position: relative;"><div class=3D=
+"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"=
+CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px;=20=
+width: 21px;">68</div></div><pre class=3D" CodeMirror-line " role=
+=3D"presentation"><span role=3D"presentation" style=3D"padding-ri=
+ght: 0.1px;"> &nbsp;  }</span></pre></div><div style=3D"position:=
+ relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"lef=
+t: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-=
+elt" style=3D"left: 0px; width: 21px;">69</div></div><pre class=3D=
+" CodeMirror-line " role=3D"presentation"><span role=3D"presentat=
+ion" style=3D"padding-right: 0.1px;">}</span></pre></div></div></=
+div></div></div></div><div style=3D"position: absolute; height: 1=
+3px; width: 1px; border-bottom-width: 0px; border-bottom-style: s=
+olid; border-bottom-color: transparent; top: 1457px;"></div><div=20=
+class=3D"CodeMirror-gutters" style=3D"height: 1487px;"><div class=
+=3D"CodeMirror-gutter CodeMirror-linenumbers" style=3D"width: 29p=
+x;"></div></div></div></div></wiz_code_mirror></div><wiz_tmp_tag=20=
+id=3D"wiz-table-range-border"  style=3D"display: none;"><div id=3D=
+"wiz-table-col-line" style=3D"display: none;"></div><div id=3D"wi=
+z-table-row-line" style=3D"display: none;"></div><div id=3D"wiz-t=
+able-range-border_start" style=3D"display: none;"><div id=3D"wiz-=
+table-range-border_start_top"></div><div id=3D"wiz-table-range-bo=
+rder_start_right"></div><div id=3D"wiz-table-range-border_start_b=
+ottom"></div><div id=3D"wiz-table-range-border_start_left"></div>=
+<div id=3D"wiz-table-range-border_start_dot"></div></div><div id=3D=
+"wiz-table-range-border_range" style=3D"display: none;"><div id=3D=
+"wiz-table-range-border_range_top"></div><div id=3D"wiz-table-ran=
+ge-border_range_right"></div><div id=3D"wiz-table-range-border_ra=
+nge_bottom"></div><div id=3D"wiz-table-range-border_range_left"><=
+/div><div id=3D"wiz-table-range-border_range_dot"></div></div></w=
+iz_tmp_tag></body></html>
+
+------=_Next_Part_0091952433.334--
+
+------=_Next_Part_0275857299.467
+Content-Type: text/css;
+	name="github2.css"
+Content-Transfer-Encoding: base64
+Content-ID: <github2.css>
+Content-Location: github2.css
+
+//4uAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIAB7AA0ACgAgACAAIAAgAGYAbwBuAHQALQBm
+AGEAbQBpAGwAeQA6ACAASABlAGwAdgBlAHQAaQBjAGEALAAgACIASABpAHIAYQBnAGkAbgBvACAA
+UwBhAG4AcwAgAEcAQgAiACwAIAAiAK5fb4/FltGeIgAsACAAIgBNAGkAYwByAG8AcwBvAGYAdAAg
+AFkAYQBIAGUAaQAgAFUASQAiACwAIABTAGkAbQBTAHUAbgAsACAAUwBpAG0ASABlAGkALAAgAGEA
+cgBpAGEAbAAsACAAcwBhAG4AcwAtAHMAZQByAGkAZgA7AA0ACgAgACAAIAAgAGwAaQBuAGUALQBo
+AGUAaQBnAGgAdAA6ACAAMQAuADYAOwANAAoAIAAgACAAIAANAAoAIAAgACAAIABtAGEAcgBnAGkA
+bgA6ACAAMAAgAGEAdQB0AG8AOwANAAoAIAAgACAAIABwAGEAZABkAGkAbgBnADoAIAAyADAAcAB4
+ACAAMwA2AHAAeAA7AA0ACgB9AA0ACgANAAoADQAKAA0ACgAgACAAIAAgAA0ACgANAAoADQAKAC4A
+bQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAuAG0AbwBiAGkAbABlACAAewANAAoAIAAgACAAIABw
+AGEAZABkAGkAbgBnADoAIAAwADsADQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIA
+bwBkAHkAIAA+ACAAKgA6AGYAaQByAHMAdAAtAGMAaABpAGwAZAAgAHsADQAKACAAIAAgACAAbQBh
+AHIAZwBpAG4ALQB0AG8AcAA6ACAAMAAgACEAaQBtAHAAbwByAHQAYQBuAHQAOwANAAoAfQANAAoA
+DQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAD4AIAAqADoAbABhAHMAdAAtAGMAaABp
+AGwAZAAgAHsADQAKACAAIAAgACAAbQBhAHIAZwBpAG4ALQBiAG8AdAB0AG8AbQA6ACAAMAAgACEA
+aQBtAHAAbwByAHQAYQBuAHQAOwANAAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBv
+AGQAeQAgAGEAIAB7AA0ACgAgACAAIAAgAGMAbwBsAG8AcgA6ACAAIwA0ADQAOABhAGYAZgA7AA0A
+CgAgACAAIAAgAHQAZQB4AHQALQBkAGUAYwBvAHIAYQB0AGkAbwBuADoAIABuAG8AbgBlADsADQAK
+AH0ADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGEAOgBoAG8AdgBlAHIAIAB7AA0A
+CgAgACAAIAAgAHQAZQB4AHQALQBkAGUAYwBvAHIAYQB0AGkAbwBuADoAIAB1AG4AZABlAHIAbABp
+AG4AZQA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAYQAuAGEA
+YgBzAGUAbgB0ACAAewANAAoAIAAgACAAIABjAG8AbABvAHIAOgAgACMAYwBjADAAMAAwADAAOwAN
+AAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGEALgBhAG4AYwBoAG8A
+cgAgAHsADQAKACAAIAAgACAAZABpAHMAcABsAGEAeQA6ACAAYgBsAG8AYwBrADsADQAKACAAIAAg
+ACAAcABhAGQAZABpAG4AZwAtAGwAZQBmAHQAOgAgADMAMABwAHgAOwANAAoAIAAgACAAIABtAGEA
+cgBnAGkAbgAtAGwAZQBmAHQAOgAgAC0AMwAwAHAAeAA7AA0ACgAgACAAIAAgAGMAdQByAHMAbwBy
+ADoAIABwAG8AaQBuAHQAZQByADsADQAKACAAIAAgACAAcABvAHMAaQB0AGkAbwBuADoAIABhAGIA
+cwBvAGwAdQB0AGUAOwANAAoAIAAgACAAIAB0AG8AcAA6ACAAMAA7AA0ACgAgACAAIAAgAGwAZQBm
+AHQAOgAgADAAOwANAAoAIAAgACAAIABiAG8AdAB0AG8AbQA6ACAAMAA7AA0ACgB9AA0ACgANAAoA
+LgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAaAAxACwAIAAuAG0AYQByAGsAZABvAHcAbgAt
+AGIAbwBkAHkAIABoADIALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGgAMwAsACAA
+LgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAaAA0ACwAIAAuAG0AYQByAGsAZABvAHcAbgAt
+AGIAbwBkAHkAIABoADUALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGgANgAgAHsA
+DQAKACAAIAAgACAAbQBhAHIAZwBpAG4AOgAgADIAMABwAHgAIAAwACAAMQAwAHAAeAA7AA0ACgAg
+ACAAIAAgAHAAYQBkAGQAaQBuAGcAOgAgADAAOwANAAoAIAAgACAAIABmAG8AbgB0AC0AdwBlAGkA
+ZwBoAHQAOgAgAGIAbwBsAGQAOwANAAoAIAAgACAAIAANAAoAIAAgACAAIABjAHUAcgBzAG8AcgA6
+ACAAdABlAHgAdAA7AA0ACgAgACAAIAAgAHAAbwBzAGkAdABpAG8AbgA6ACAAcgBlAGwAYQB0AGkA
+dgBlADsADQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABoADEAOgBo
+AG8AdgBlAHIAIABhAC4AYQBuAGMAaABvAHIALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQA
+eQAgAGgAMgA6AGgAbwB2AGUAcgAgAGEALgBhAG4AYwBoAG8AcgAsACAALgBtAGEAcgBrAGQAbwB3
+AG4ALQBiAG8AZAB5ACAAaAAzADoAaABvAHYAZQByACAAYQAuAGEAbgBjAGgAbwByACwAIAAuAG0A
+YQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABoADQAOgBoAG8AdgBlAHIAIABhAC4AYQBuAGMAaABv
+AHIALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGgANQA6AGgAbwB2AGUAcgAgAGEA
+LgBhAG4AYwBoAG8AcgAsACAALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAaAA2ADoAaABv
+AHYAZQByACAAYQAuAGEAbgBjAGgAbwByACAAewANAAoAIAAgACAAIABiAGEAYwBrAGcAcgBvAHUA
+bgBkADoAIAB1AHIAbAAoAGQAYQB0AGEAOgBpAG0AYQBnAGUALwBwAG4AZwA7AGIAYQBzAGUANgA0
+ACwAaQBWAEIATwBSAHcAMABLAEcAZwBvAEEAQQBBAEEATgBTAFUAaABFAFUAZwBBAEEAQQBCAEEA
+QQBBAEEAQQBRAEMAQQBZAEEAQQBBAEEAZgA4AC8AOQBoAEEAQQBBAEEARwBYAFIARgBXAEgAUgBU
+AGIAMgBaADAAZAAyAEYAeQBaAFEAQgBCAFoARwA5AGkAWgBTAEIASgBiAFcARgBuAFoAVgBKAGwA
+WQBXAFIANQBjAGMAbABsAFAAQQBBAEEAQQAwADkAcABWAEYAaAAwAFcARQAxAE0ATwBtAE4AdgBi
+AFMANQBoAFoARwA5AGkAWgBTADUANABiAFgAQQBBAEEAQQBBAEEAQQBEAHcALwBlAEgAQgBoAFkA
+MgB0AGwAZABDAEIAaQBaAFcAZABwAGIAagAwAGkANwA3AHUALwBJAGkAQgBwAFoARAAwAGkAVgB6
+AFYATgBNAEUAMQB3AFEAMgBWAG8AYQBVAGgANgBjAG0AVgBUAGUAawA1AFUAWQAzAHAAcgBZAHoA
+bABrAEkAagA4ACsASQBEAHgANABPAG4AaAB0AGMARwAxAGwAZABHAEUAZwBlAEcAMQBzAGIAbgBN
+ADYAZQBEADAAaQBZAFcAUgB2AFkAbQBVADYAYgBuAE0ANgBiAFcAVgAwAFkAUwA4AGkASQBIAGcA
+NgBlAEcAMQB3AGQARwBzADkASQBrAEYAawBiADIASgBsAEkARgBoAE4AVQBDAEIARABiADMASgBs
+AEkARABVAHUATQB5ADEAagBNAEQARQB4AEkARABZADIATABqAEUAMABOAFQAWQAyAE0AUwB3AGcA
+TQBqAEEAeABNAGkAOAB3AE0AaQA4AHcATgBpADAAeABOAEQAbwAxAE4AagBvAHkATgB5AEEAZwBJ
+AEMAQQBnAEkAQwBBAGcASQBqADQAZwBQAEgASgBrAFoAagBwAFMAUgBFAFkAZwBlAEcAMQBzAGIA
+bgBNADYAYwBtAFIAbQBQAFMASgBvAGQASABSAHcATwBpADgAdgBkADMAZAAzAEwAbgBjAHoATABt
+ADkAeQBaAHkAOAB4AE8AVABrADUATAB6AEEAeQBMAHoASQB5AEwAWABKAGsAWgBpADEAegBlAFcA
+NQAwAFkAWABnAHQAYgBuAE0AagBJAGoANABnAFAASABKAGsAWgBqAHAARQBaAFgATgBqAGMAbQBs
+AHcAZABHAGwAdgBiAGkAQgB5AFoARwBZADYAWQBXAEoAdgBkAFgAUQA5AEkAaQBJAGcAZQBHADEA
+cwBiAG4ATQA2AGUARwAxAHcAUABTAEoAbwBkAEgAUgB3AE8AaQA4AHYAYgBuAE0AdQBZAFcAUgB2
+AFkAbQBVAHUAWQAyADkAdABMADMAaABoAGMAQwA4AHgATABqAEEAdgBJAGkAQgA0AGIAVwB4AHUA
+YwB6AHAANABiAFgAQgBOAFQAVAAwAGkAYQBIAFIAMABjAEQAbwB2AEwAMgA1AHoATABtAEYAawBi
+ADIASgBsAEwAbQBOAHYAYgBTADkANABZAFgAQQB2AE0AUwA0AHcATAAyADEAdABMAHkASQBnAGUA
+RwAxAHMAYgBuAE0ANgBjADMAUgBTAFoAVwBZADkASQBtAGgAMABkAEgAQQA2AEwAeQA5AHUAYwB5
+ADUAaABaAEcAOQBpAFoAUwA1AGoAYgAyADAAdgBlAEcARgB3AEwAegBFAHUATQBDADkAegBWAEgA
+bAB3AFoAUwA5AFMAWgBYAE4AdgBkAFgASgBqAFoAVgBKAGwAWgBpAE0AaQBJAEgAaAB0AGMARABw
+AEQAYwBtAFYAaABkAEcAOQB5AFYARwA5AHYAYgBEADAAaQBRAFcAUgB2AFkAbQBVAGcAVQBHAGgA
+dgBkAEcAOQB6AGEARwA5AHcASQBFAE4AVABOAGkAQQBvAE0AVABNAHUATQBDAEEAeQBNAEQARQB5
+AE0ARABNAHcATgBTADUAdABMAGoAUQB4AE4AUwBBAHkATQBEAEUAeQBMAHoAQQB6AEwAegBBADEA
+TwBqAEkAeABPAGoAQQB3AE8AagBBAHcASwBTAEEAZwBLAEUAMQBoAFkAMgBsAHUAZABHADkAegBh
+AEMAawBpAEkASABoAHQAYwBFADEATgBPAGsAbAB1AGMAMwBSAGgAYgBtAE4AbABTAFUAUQA5AEkA
+bgBoAHQAYwBDADUAcABhAFcAUQA2AE8AVQBNADIATgBqAGwARABRAGoASQA0AE8ARABCAEcATQBU
+AEYARgBNAFQAZwAxAE8ARABsAEUATwBEAE4ARQBSAEQASgBCAFIAagBVAHcAUQBUAFEAaQBJAEgA
+aAB0AGMARQAxAE4ATwBrAFIAdgBZADMAVgB0AFoAVwA1ADAAUwBVAFEAOQBJAG4AaAB0AGMAQwA1
+AGsAYQBXAFEANgBPAFUATQAyAE4AagBsAEQAUQBqAE0ANABPAEQAQgBHAE0AVABGAEYATQBUAGcA
+MQBPAEQAbABFAE8ARABOAEUAUgBEAEoAQgBSAGoAVQB3AFEAVABRAGkAUABpAEEAOABlAEcAMQB3
+AFQAVQAwADYAUgBHAFYAeQBhAFgAWgBsAFoARQBaAHkAYgAyADAAZwBjADMAUgBTAFoAVwBZADYA
+YQBXADUAegBkAEcARgB1AFkAMgBWAEoAUgBEADAAaQBlAEcAMQB3AEwAbQBsAHAAWgBEAG8ANQBR
+AHoAWQAyAE8AVQBOAEMATQBEAGcANABNAEUAWQB4AE0AVQBVAHgATwBEAFUANABPAFUAUQA0AE0A
+MABSAEUATQBrAEYARwBOAFQAQgBCAE4AQwBJAGcAYwAzAFIAUwBaAFcAWQA2AFoARwA5AGoAZABX
+ADEAbABiAG4AUgBKAFIARAAwAGkAZQBHADEAdwBMAG0AUgBwAFoARABvADUAUQB6AFkAMgBPAFUA
+TgBDAE0AVABnADQATQBFAFkAeABNAFUAVQB4AE8ARABVADQATwBVAFEANABNADAAUgBFAE0AawBG
+AEcATgBUAEIAQgBOAEMASQB2AFAAaQBBADgATAAzAEoAawBaAGoAcABFAFoAWABOAGoAYwBtAGwA
+dwBkAEcAbAB2AGIAagA0AGcAUABDADkAeQBaAEcAWQA2AFUAawBSAEcAUABpAEEAOABMADMAZwA2
+AGUARwAxAHcAYgBXAFYAMABZAFQANABnAFAARAA5ADQAYwBHAEYAagBhADIAVgAwAEkARwBWAHUA
+WgBEADAAaQBjAGkASQAvAFAAcwBRAGgAWABlAEEAQQBBAEEAQgBmAFMAVQBSAEIAVgBIAGoAYQBZ
+AHYAegAvAC8AegA4AEQASgBZAEMAUgBVAGcATQBZAFEAQQBiAEEATQBCAFEASQBBAHYARQBxAGsA
+QgBRAFcAWABJADYAcwBIAHEAdwBIAGkAdwBHADcAMABUAFQAQgB4AEcAYQBpAFcAdwBqAEMAVABH
+AGcATwBVAGcASgBpAEYAMQBKADgAdwBNAFIAQQBJAFUAQQAzADQAQgA0AFEANwA2AEgAVQBCAGUA
+bABBAGYASgBZAFMAQQAwAEMAdQBNAEkARQBhAFIAUAA4AHcARwBJAGsARwBNAEEANQA0AGIAZwBR
+AEkATQBBAEMAQQBtAGsAWABKAGkAMABoAEsASgBRAEEAQQBBAEEAQgBKAFIAVQA1AEUAcgBrAEoA
+ZwBnAGcAPQA9ACkAIABuAG8ALQByAGUAcABlAGEAdAAgADEAMABwAHgAIABjAGUAbgB0AGUAcgA7
+AA0ACgAgACAAIAAgAHQAZQB4AHQALQBkAGUAYwBvAHIAYQB0AGkAbwBuADoAIABuAG8AbgBlADsA
+DQAKAH0ADQAKAA0ACgANAAoAIAAgACAAIAANAAoADQAKAA0ACgANAAoAIAAgACAAIAANAAoADQAK
+AA0ACgANAAoAIAAgACAAIAANAAoADQAKAA0ACgANAAoAIAAgACAAIAANAAoADQAKAA0ACgANAAoA
+IAAgACAAIAANAAoADQAKAA0ACgANAAoAIAAgACAAIAANAAoADQAKAA0ACgANAAoAIAAgACAAIAAN
+AAoAIAAgACAAIAANAAoADQAKAA0ACgANAAoAIAAgACAAIAANAAoAIAAgACAAIAANAAoADQAKAA0A
+CgANAAoAIAAgACAAIAANAAoADQAKAA0ACgANAAoAIAAgACAAIAANAAoADQAKAA0ACgANAAoAIAAg
+ACAAIAANAAoADQAKAA0ACgANAAoAIAAgACAAIAANAAoAIAAgACAAIAANAAoAIAAgACAAIAANAAoA
+DQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABwACwAIAAuAG0AYQByAGsAZABv
+AHcAbgAtAGIAbwBkAHkAIABiAGwAbwBjAGsAcQB1AG8AdABlACwAIAAuAG0AYQByAGsAZABvAHcA
+bgAtAGIAbwBkAHkAIAB1AGwALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAG8AbAAs
+AA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABkAGwALAAgAC4AbQBhAHIAawBkAG8A
+dwBuAC0AYgBvAGQAeQAgAHAAcgBlACAAewANAAoAIAAgACAAIABtAGEAcgBnAGkAbgA6ACAAMQAw
+AHAAeAAgADAAOwANAAoAIAAgACAAIABtAGEAcgBnAGkAbgA6ACAALgA4ADMAcgBlAG0AIAAwADsA
+DQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABsAGkAIAB7AA0ACgAg
+ACAAIAAgAG0AYQByAGcAaQBuADoAIAA1AHAAeAAgADAAOwANAAoAfQANAAoADQAKAC4AbQBhAHIA
+awBkAG8AdwBuAC0AYgBvAGQAeQAgAGwAaQAuAHcAaQB6AC0AbQBkAC0AdABvAGQAbwAtAGwAaQBz
+AHQALQBpAHQAZQBtACAAewANAAoAIAAgACAAIABsAGkAcwB0AC0AcwB0AHkAbABlADoAIABuAG8A
+bgBlADsADQAKAH0ADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGwAaQAuAHcAaQB6
+AC0AbQBkAC0AdABvAGQAbwAtAGwAaQBzAHQALQBpAHQAZQBtACAAaQBuAHAAdQB0AC4AdwBpAHoA
+LQBtAGQALQB0AG8AZABvAC0AYwBoAGUAYwBrAGIAbwB4ACAAewANAAoAIAAgACAAIABtAGEAcgBn
+AGkAbgA6ACAAMABwAHgAIAA1AHAAeAAgADAAcAB4ACAALQAxAHIAZQBtADsADQAKACAAIAAgACAA
+dgBlAHIAdABpAGMAYQBsAC0AYQBsAGkAZwBuADoAbQBpAGQAZABsAGUAOwANAAoAfQANAAoADQAK
+AC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGgAcgAgAHsADQAKACAAIAAgACAAYgBvAHIA
+ZABlAHIAOgAgADAAOwANAAoAIAAgACAAIABiAG8AcgBkAGUAcgAtAGIAbwB0AHQAbwBtADoAIAAx
+AHAAeAAgAGQAYQBzAGgAZQBkACAAIwBjAGYAYwBmAGMAZgA7AA0ACgAgACAAIAAgAG0AYQByAGcA
+aQBuADoAIAAzADAAcAB4ACAAMAA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBrAGQAbwB3AG4ALQBi
+AG8AZAB5ACAAPgAgAGgAMgA6AGYAaQByAHMAdAAtAGMAaABpAGwAZAAgAHsADQAKACAAIAAgACAA
+bQBhAHIAZwBpAG4ALQB0AG8AcAA6ACAAMAA7AA0ACgAgACAAIAAgAHAAYQBkAGQAaQBuAGcALQB0
+AG8AcAA6ACAAMAA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAA
+PgAgAGgAMQA6AGYAaQByAHMAdAAtAGMAaABpAGwAZAAgAHsADQAKACAAIAAgACAAbQBhAHIAZwBp
+AG4ALQB0AG8AcAA6ACAAMAA7AA0ACgAgACAAIAAgAHAAYQBkAGQAaQBuAGcALQB0AG8AcAA6ACAA
+MAA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAPgAgAGgAMQA6
+AGYAaQByAHMAdAAtAGMAaABpAGwAZAAgACsAIABoADIAIAB7AA0ACgAgACAAIAAgAG0AYQByAGcA
+aQBuAC0AdABvAHAAOgAgADAAOwANAAoAIAAgACAAIABwAGEAZABkAGkAbgBnAC0AdABvAHAAOgAg
+ADAAOwANAAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAD4AIABoADMA
+OgBmAGkAcgBzAHQALQBjAGgAaQBsAGQALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAg
+AD4AIABoADQAOgBmAGkAcgBzAHQALQBjAGgAaQBsAGQALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0A
+YgBvAGQAeQAgAD4AIABoADUAOgBmAGkAcgBzAHQALQBjAGgAaQBsAGQALAAgAC4AbQBhAHIAawBk
+AG8AdwBuAC0AYgBvAGQAeQAgAD4AIABoADYAOgBmAGkAcgBzAHQALQBjAGgAaQBsAGQAIAB7AA0A
+CgAgACAAIAAgAG0AYQByAGcAaQBuAC0AdABvAHAAOgAgADAAOwANAAoAIAAgACAAIABwAGEAZABk
+AGkAbgBnAC0AdABvAHAAOgAgADAAOwANAAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0A
+YgBvAGQAeQAgAGEAOgBmAGkAcgBzAHQALQBjAGgAaQBsAGQAIABoADEALAAgAC4AbQBhAHIAawBk
+AG8AdwBuAC0AYgBvAGQAeQAgAGEAOgBmAGkAcgBzAHQALQBjAGgAaQBsAGQAIABoADIALAAgAC4A
+bQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGEAOgBmAGkAcgBzAHQALQBjAGgAaQBsAGQAIABo
+ADMALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGEAOgBmAGkAcgBzAHQALQBjAGgA
+aQBsAGQAIABoADQALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGEAOgBmAGkAcgBz
+AHQALQBjAGgAaQBsAGQAIABoADUALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGEA
+OgBmAGkAcgBzAHQALQBjAGgAaQBsAGQAIABoADYAIAB7AA0ACgAgACAAIAAgAG0AYQByAGcAaQBu
+AC0AdABvAHAAOgAgADAAOwANAAoAIAAgACAAIABwAGEAZABkAGkAbgBnAC0AdABvAHAAOgAgADAA
+OwANAAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGgAMQAgAHAALAAg
+AC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGgAMgAgAHAALAAgAC4AbQBhAHIAawBkAG8A
+dwBuAC0AYgBvAGQAeQAgAGgAMwAgAHAALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAg
+AGgANAAgAHAALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGgANQAgAHAALAAgAC4A
+bQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGgANgAgAHAAIAB7AA0ACgAgACAAIAAgAG0AYQBy
+AGcAaQBuAC0AdABvAHAAOgAgADAAOwANAAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0A
+YgBvAGQAeQAgAGwAaQAgAHAALgBmAGkAcgBzAHQAIAB7AA0ACgAgACAAIAAgAGQAaQBzAHAAbABh
+AHkAOgAgAGkAbgBsAGkAbgBlAC0AYgBsAG8AYwBrADsADQAKAH0ADQAKAA0ACgAuAG0AYQByAGsA
+ZABvAHcAbgAtAGIAbwBkAHkAIABwAHIAZQAgAGwAaQAgAHsADQAKACAAIAAgACAAbQBhAHIAZwBp
+AG4AOgAgADAAOwANAAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAHUA
+bAAsACAALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAbwBsACAAewANAAoAIAAgACAAIABw
+AGEAZABkAGkAbgBnAC0AbABlAGYAdAA6ACAAMwA0AHAAeAA7AA0ACgAgACAAIAAgAHAAYQBkAGQA
+aQBuAGcALQBsAGUAZgB0ADoAIAAyAC4AMQAzAHIAZQBtADsADQAKAH0ADQAKAC4AbQBhAHIAawBk
+AG8AdwBuAC0AYgBvAGQAeQAgAHUAbAAgAHAALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQA
+eQAgAG8AbAAgAHAAewANAAoAIAAgACAAIABtAGEAcgBnAGkAbgA6ACAAMAA7AA0ACgB9AA0ACgAN
+AAoALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAdQBsACAAOgBmAGkAcgBzAHQALQBjAGgA
+aQBsAGQALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAG8AbAAgADoAZgBpAHIAcwB0
+AC0AYwBoAGkAbABkACAAewANAAoAIAAgACAAIABtAGEAcgBnAGkAbgAtAHQAbwBwADoAIAAwADsA
+DQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABkAGwAIAB7AA0ACgAg
+ACAAIAAgAHAAYQBkAGQAaQBuAGcAOgAgADAAOwANAAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8A
+dwBuAC0AYgBvAGQAeQAgAGQAbAAgAGQAdAAgAHsADQAKACAAIAAgACAAZgBvAG4AdAAtAHMAaQB6
+AGUAOgAgADEAMABwAHQAOwANAAoAIAAgACAAIABmAG8AbgB0AC0AcwBpAHoAZQA6ACAAMAAuADgA
+MwByAGUAbQA7AA0ACgAgACAAIAAgAGYAbwBuAHQALQB3AGUAaQBnAGgAdAA6ACAAYgBvAGwAZAA7
+AA0ACgAgACAAIAAgAGYAbwBuAHQALQBzAHQAeQBsAGUAOgAgAGkAdABhAGwAaQBjADsADQAKACAA
+IAAgACAAcABhAGQAZABpAG4AZwA6ACAAMAA7AA0ACgAgACAAIAAgAG0AYQByAGcAaQBuADoAIAA4
+AHAAeAAgADAAIAA1AHAAeAA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8A
+ZAB5ACAAZABsACAAZAB0ADoAZgBpAHIAcwB0AC0AYwBoAGkAbABkACAAewANAAoAIAAgACAAIABw
+AGEAZABkAGkAbgBnADoAIAAwADsADQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIA
+bwBkAHkAIABkAGwAIABkAHQAIAA+ACAAOgBmAGkAcgBzAHQALQBjAGgAaQBsAGQAIAB7AA0ACgAg
+ACAAIAAgAG0AYQByAGcAaQBuAC0AdABvAHAAOgAgADAAOwANAAoAfQANAAoADQAKAC4AbQBhAHIA
+awBkAG8AdwBuAC0AYgBvAGQAeQAgAGQAbAAgAGQAdAAgAD4AIAA6AGwAYQBzAHQALQBjAGgAaQBs
+AGQAIAB7AA0ACgAgACAAIAAgAG0AYQByAGcAaQBuAC0AYgBvAHQAdABvAG0AOgAgADAAOwANAAoA
+fQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAGQAbAAgAGQAZAAgAHsADQAK
+ACAAIAAgACAAbQBhAHIAZwBpAG4AOgAgADAAIAAwACAAOABwAHgAOwANAAoAIAAgACAAIABwAGEA
+ZABkAGkAbgBnADoAIAAwACAAMQA1AHAAeAA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBrAGQAbwB3
+AG4ALQBiAG8AZAB5ACAAZABsACAAZABkACAAPgAgADoAZgBpAHIAcwB0AC0AYwBoAGkAbABkACAA
+ewANAAoAIAAgACAAIABtAGEAcgBnAGkAbgAtAHQAbwBwADoAIAAwADsADQAKAH0ADQAKAA0ACgAu
+AG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABkAGwAIABkAGQAIAA+ACAAOgBsAGEAcwB0AC0A
+YwBoAGkAbABkACAAewANAAoAIAAgACAAIABtAGEAcgBnAGkAbgAtAGIAbwB0AHQAbwBtADoAIAAw
+ADsADQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABiAGwAbwBjAGsA
+cQB1AG8AdABlACAAewANAAoAIAAgACAAIABiAG8AcgBkAGUAcgAtAGwAZQBmAHQAOgAgADQAcAB4
+ACAAcwBvAGwAaQBkACAAIwBkAGQAZABkAGQAZAA7AA0ACgAgACAAIAAgAHAAYQBkAGQAaQBuAGcA
+OgAgADAAIAAxADIAcAB4ADsADQAKACAAIAAgACAAYwBvAGwAbwByADoAIAAjAGEAYQBhADsADQAK
+AH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABiAGwAbwBjAGsAcQB1AG8A
+dABlACAAPgAgADoAZgBpAHIAcwB0AC0AYwBoAGkAbABkACAAewANAAoAIAAgACAAIABtAGEAcgBn
+AGkAbgAtAHQAbwBwADoAIAAwADsADQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIA
+bwBkAHkAIABiAGwAbwBjAGsAcQB1AG8AdABlACAAPgAgADoAbABhAHMAdAAtAGMAaABpAGwAZAAg
+AHsADQAKACAAIAAgACAAbQBhAHIAZwBpAG4ALQBiAG8AdAB0AG8AbQA6ACAAMAA7AA0ACgB9AA0A
+CgANAAoALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAdABhAGIAbABlACAAewANAAoAIAAg
+ACAAIABwAGEAZABkAGkAbgBnADoAIAAwADsADQAKACAAIAAgACAAYgBvAHIAZABlAHIALQBjAG8A
+bABsAGEAcABzAGUAOgAgAGMAbwBsAGwAYQBwAHMAZQA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBr
+AGQAbwB3AG4ALQBiAG8AZAB5ACAAdABhAGIAbABlACAAdAByACAAewANAAoAIAAgACAAIABiAG8A
+cgBkAGUAcgAtAHQAbwBwADoAIAAxAHAAeAAgAHMAbwBsAGkAZAAgACMAYwBjAGMAYwBjAGMAOwAN
+AAoAIAAgACAAIABiAGEAYwBrAGcAcgBvAHUAbgBkAC0AYwBvAGwAbwByADoAIAB3AGgAaQB0AGUA
+OwANAAoAIAAgACAAIABtAGEAcgBnAGkAbgA6ACAAMAA7AA0ACgAgACAAIAAgAHAAYQBkAGQAaQBu
+AGcAOgAgADAAOwANAAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAHQA
+YQBiAGwAZQAgAHQAcgA6AG4AdABoAC0AYwBoAGkAbABkACgAMgBuACkAIAB7AA0ACgAgACAAIAAg
+AGIAYQBjAGsAZwByAG8AdQBuAGQALQBjAG8AbABvAHIAOgAgACMAZgA4AGYAOABmADgAOwANAAoA
+fQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAHQAYQBiAGwAZQAgAHQAcgAg
+AHQAaAAgAHsADQAKACAAIAAgACAAZgBvAG4AdAAtAHMAaQB6AGUAOgAgADEAMABwAHQAOwANAAoA
+IAAgACAAIABmAG8AbgB0AC0AcwBpAHoAZQA6ACAAMAAuADgAMwByAGUAbQA7AA0ACgAgACAAIAAg
+AGYAbwBuAHQALQB3AGUAaQBnAGgAdAA6ACAAYgBvAGwAZAA7AA0ACgAgACAAIAAgAGIAbwByAGQA
+ZQByADoAIAAxAHAAeAAgAHMAbwBsAGkAZAAgACMAYwBjAGMAYwBjAGMAOwANAAoAIAAgACAAIABt
+AGEAcgBnAGkAbgA6ACAAMAA7AA0ACgAgACAAIAAgAHAAYQBkAGQAaQBuAGcAOgAgADYAcAB4ACAA
+MQAzAHAAeAA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAdABh
+AGIAbABlACAAdAByACAAdABkACAAewANAAoAIAAgACAAIABiAG8AcgBkAGUAcgA6ACAAMQBwAHgA
+IABzAG8AbABpAGQAIAAjAGMAYwBjAGMAYwBjADsADQAKACAAIAAgACAAbQBhAHIAZwBpAG4AOgAg
+ADAAOwANAAoAIAAgACAAIABwAGEAZABkAGkAbgBnADoAIAA2AHAAeAAgADEAMwBwAHgAOwANAAoA
+IAAgACAAIABmAG8AbgB0AC0AcwBpAHoAZQA6ACAAMQAwAHAAdAA7AA0ACgAgACAAIAAgAGYAbwBu
+AHQALQBzAGkAegBlADoAIAAwAC4AOAAzAHIAZQBtADsADQAKAH0ADQAKAA0ACgAuAG0AYQByAGsA
+ZABvAHcAbgAtAGIAbwBkAHkAIAB0AGEAYgBsAGUAIAB0AHIAIAB0AGgAIAA6AGYAaQByAHMAdAAt
+AGMAaABpAGwAZAAsACAALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAdABhAGIAbABlACAA
+dAByACAAdABkACAAOgBmAGkAcgBzAHQALQBjAGgAaQBsAGQAIAB7AA0ACgAgACAAIAAgAG0AYQBy
+AGcAaQBuAC0AdABvAHAAOgAgADAAOwANAAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0A
+YgBvAGQAeQAgAHQAYQBiAGwAZQAgAHQAcgAgAHQAaAAgADoAbABhAHMAdAAtAGMAaABpAGwAZAAs
+ACAALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAdABhAGIAbABlACAAdAByACAAdABkACAA
+OgBsAGEAcwB0AC0AYwBoAGkAbABkACAAewANAAoAIAAgACAAIABtAGEAcgBnAGkAbgAtAGIAbwB0
+AHQAbwBtADoAIAAwADsADQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkA
+IABpAG0AZwAgAHsADQAKACAAIAAgACAAbQBhAHgALQB3AGkAZAB0AGgAOgAgADEAMAAwACUAOwAN
+AAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAC4AZgBvAG8AdABuAG8A
+dABlACAAewANAAoAIAAgACAAIAB2AGUAcgB0AGkAYwBhAGwALQBhAGwAaQBnAG4AOgAgAHQAbwBw
+ADsADQAKACAAIAAgACAAcABvAHMAaQB0AGkAbwBuADoAIAByAGUAbABhAHQAaQB2AGUAOwANAAoA
+IAAgACAAIAB0AG8AcAA6ACAALQAwAC4ANQBlAG0AOwANAAoAIAAgACAAIABmAG8AbgB0AC0AcwBp
+AHoAZQA6ACAAOQBwAHQAOwANAAoAIAAgACAAIABmAG8AbgB0AC0AcwBpAHoAZQA6ACAALgA3ADUA
+cgBlAG0ADQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABzAHAAYQBu
+AC4AZgByAGEAbQBlACAAewANAAoAIAAgACAAIABkAGkAcwBwAGwAYQB5ADoAIABiAGwAbwBjAGsA
+OwANAAoAIAAgACAAIABvAHYAZQByAGYAbABvAHcAOgAgAGgAaQBkAGQAZQBuADsADQAKAH0ADQAK
+AA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABzAHAAYQBuAC4AZgByAGEAbQBlACAA
+PgAgAHMAcABhAG4AIAB7AA0ACgAgACAAIAAgAGIAbwByAGQAZQByADoAIAAxAHAAeAAgAHMAbwBs
+AGkAZAAgACMAZABkAGQAZABkAGQAOwANAAoAIAAgACAAIABkAGkAcwBwAGwAYQB5ADoAIABiAGwA
+bwBjAGsAOwANAAoAIAAgACAAIABmAGwAbwBhAHQAOgAgAGwAZQBmAHQAOwANAAoAIAAgACAAIABv
+AHYAZQByAGYAbABvAHcAOgAgAGgAaQBkAGQAZQBuADsADQAKACAAIAAgACAAbQBhAHIAZwBpAG4A
+OgAgADEAMwBwAHgAIAAwACAAMAA7AA0ACgAgACAAIAAgAHAAYQBkAGQAaQBuAGcAOgAgADcAcAB4
+ADsADQAKACAAIAAgACAAdwBpAGQAdABoADoAIABhAHUAdABvADsADQAKAH0ADQAKAA0ACgAuAG0A
+YQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABzAHAAYQBuAC4AZgByAGEAbQBlACAAcwBwAGEAbgAg
+AGkAbQBnACAAewANAAoAIAAgACAAIABkAGkAcwBwAGwAYQB5ADoAIABiAGwAbwBjAGsAOwANAAoA
+IAAgACAAIABmAGwAbwBhAHQAOgAgAGwAZQBmAHQAOwANAAoAfQANAAoADQAKAC4AbQBhAHIAawBk
+AG8AdwBuAC0AYgBvAGQAeQAgAHMAcABhAG4ALgBmAHIAYQBtAGUAIABzAHAAYQBuACAAcwBwAGEA
+bgAgAHsADQAKACAAIAAgACAAYwBsAGUAYQByADoAIABiAG8AdABoADsADQAKACAAIAAgACAAYwBv
+AGwAbwByADoAIAAjADMAMwAzADMAMwAzADsADQAKACAAIAAgACAAZABpAHMAcABsAGEAeQA6ACAA
+YgBsAG8AYwBrADsADQAKACAAIAAgACAAcABhAGQAZABpAG4AZwA6ACAANQBwAHgAIAAwACAAMAA7
+AA0ACgB9AA0ACgANAAoALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAcwBwAGEAbgAuAGEA
+bABpAGcAbgAtAGMAZQBuAHQAZQByACAAewANAAoAIAAgACAAIABkAGkAcwBwAGwAYQB5ADoAIABi
+AGwAbwBjAGsAOwANAAoAIAAgACAAIABvAHYAZQByAGYAbABvAHcAOgAgAGgAaQBkAGQAZQBuADsA
+DQAKACAAIAAgACAAYwBsAGUAYQByADoAIABiAG8AdABoADsADQAKAH0ADQAKAA0ACgAuAG0AYQBy
+AGsAZABvAHcAbgAtAGIAbwBkAHkAIABzAHAAYQBuAC4AYQBsAGkAZwBuAC0AYwBlAG4AdABlAHIA
+IAA+ACAAcwBwAGEAbgAgAHsADQAKACAAIAAgACAAZABpAHMAcABsAGEAeQA6ACAAYgBsAG8AYwBr
+ADsADQAKACAAIAAgACAAbwB2AGUAcgBmAGwAbwB3ADoAIABoAGkAZABkAGUAbgA7AA0ACgAgACAA
+IAAgAG0AYQByAGcAaQBuADoAIAAxADMAcAB4ACAAYQB1AHQAbwAgADAAOwANAAoAIAAgACAAIAB0
+AGUAeAB0AC0AYQBsAGkAZwBuADoAIABjAGUAbgB0AGUAcgA7AA0ACgB9AA0ACgANAAoALgBtAGEA
+cgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAcwBwAGEAbgAuAGEAbABpAGcAbgAtAGMAZQBuAHQAZQBy
+ACAAcwBwAGEAbgAgAGkAbQBnACAAewANAAoAIAAgACAAIABtAGEAcgBnAGkAbgA6ACAAMAAgAGEA
+dQB0AG8AOwANAAoAIAAgACAAIAB0AGUAeAB0AC0AYQBsAGkAZwBuADoAIABjAGUAbgB0AGUAcgA7
+AA0ACgB9AA0ACgANAAoALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAcwBwAGEAbgAuAGEA
+bABpAGcAbgAtAHIAaQBnAGgAdAAgAHsADQAKACAAIAAgACAAZABpAHMAcABsAGEAeQA6ACAAYgBs
+AG8AYwBrADsADQAKACAAIAAgACAAbwB2AGUAcgBmAGwAbwB3ADoAIABoAGkAZABkAGUAbgA7AA0A
+CgAgACAAIAAgAGMAbABlAGEAcgA6ACAAYgBvAHQAaAA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBr
+AGQAbwB3AG4ALQBiAG8AZAB5ACAAcwBwAGEAbgAuAGEAbABpAGcAbgAtAHIAaQBnAGgAdAAgAD4A
+IABzAHAAYQBuACAAewANAAoAIAAgACAAIABkAGkAcwBwAGwAYQB5ADoAIABiAGwAbwBjAGsAOwAN
+AAoAIAAgACAAIABvAHYAZQByAGYAbABvAHcAOgAgAGgAaQBkAGQAZQBuADsADQAKACAAIAAgACAA
+bQBhAHIAZwBpAG4AOgAgADEAMwBwAHgAIAAwACAAMAA7AA0ACgAgACAAIAAgAHQAZQB4AHQALQBh
+AGwAaQBnAG4AOgAgAHIAaQBnAGgAdAA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBrAGQAbwB3AG4A
+LQBiAG8AZAB5ACAAcwBwAGEAbgAuAGEAbABpAGcAbgAtAHIAaQBnAGgAdAAgAHMAcABhAG4AIABp
+AG0AZwAgAHsADQAKACAAIAAgACAAbQBhAHIAZwBpAG4AOgAgADAAOwANAAoAIAAgACAAIAB0AGUA
+eAB0AC0AYQBsAGkAZwBuADoAIAByAGkAZwBoAHQAOwANAAoAfQANAAoADQAKAC4AbQBhAHIAawBk
+AG8AdwBuAC0AYgBvAGQAeQAgAHMAcABhAG4ALgBmAGwAbwBhAHQALQBsAGUAZgB0ACAAewANAAoA
+IAAgACAAIABkAGkAcwBwAGwAYQB5ADoAIABiAGwAbwBjAGsAOwANAAoAIAAgACAAIABtAGEAcgBn
+AGkAbgAtAHIAaQBnAGgAdAA6ACAAMQAzAHAAeAA7AA0ACgAgACAAIAAgAG8AdgBlAHIAZgBsAG8A
+dwA6ACAAaABpAGQAZABlAG4AOwANAAoAIAAgACAAIABmAGwAbwBhAHQAOgAgAGwAZQBmAHQAOwAN
+AAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAHMAcABhAG4ALgBmAGwA
+bwBhAHQALQBsAGUAZgB0ACAAcwBwAGEAbgAgAHsADQAKACAAIAAgACAAbQBhAHIAZwBpAG4AOgAg
+ADEAMwBwAHgAIAAwACAAMAA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8A
+ZAB5ACAAcwBwAGEAbgAuAGYAbABvAGEAdAAtAHIAaQBnAGgAdAAgAHsADQAKACAAIAAgACAAZABp
+AHMAcABsAGEAeQA6ACAAYgBsAG8AYwBrADsADQAKACAAIAAgACAAbQBhAHIAZwBpAG4ALQBsAGUA
+ZgB0ADoAIAAxADMAcAB4ADsADQAKACAAIAAgACAAbwB2AGUAcgBmAGwAbwB3ADoAIABoAGkAZABk
+AGUAbgA7AA0ACgAgACAAIAAgAGYAbABvAGEAdAA6ACAAcgBpAGcAaAB0ADsADQAKAH0ADQAKAA0A
+CgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABzAHAAYQBuAC4AZgBsAG8AYQB0AC0AcgBp
+AGcAaAB0ACAAPgAgAHMAcABhAG4AIAB7AA0ACgAgACAAIAAgAGQAaQBzAHAAbABhAHkAOgAgAGIA
+bABvAGMAawA7AA0ACgAgACAAIAAgAG8AdgBlAHIAZgBsAG8AdwA6ACAAaABpAGQAZABlAG4AOwAN
+AAoAIAAgACAAIABtAGEAcgBnAGkAbgA6ACAAMQAzAHAAeAAgAGEAdQB0AG8AIAAwADsADQAKACAA
+IAAgACAAdABlAHgAdAAtAGEAbABpAGcAbgA6ACAAcgBpAGcAaAB0ADsADQAKAH0ADQAKAA0ACgAu
+AG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABjAG8AZABlACwAIAAuAG0AYQByAGsAZABvAHcA
+bgAtAGIAbwBkAHkAIAB0AHQAIAB7AA0ACgAgACAAIAAgAG0AYQByAGcAaQBuADoAIAAwACAAMgBw
+AHgAOwANAAoAIAAgACAAIABwAGEAZABkAGkAbgBnADoAIAAyAHAAeAAgADQAcAB4ADsADQAKACAA
+IAAgACAAdwBoAGkAdABlAC0AcwBwAGEAYwBlADoAIABwAHIAZQAtAHcAcgBhAHAAOwANAAoAIAAg
+ACAAIABjAG8AbABvAHIAOgAgACMAYwA3ADIANQA0AGUAOwANAAoAIAAgACAAIABiAGEAYwBrAGcA
+cgBvAHUAbgBkAC0AYwBvAGwAbwByADoAIAAjAGYAOQBmADIAZgA0ADsADQAKACAAIAAgACAAYgBv
+AHIAZABlAHIALQByAGEAZABpAHUAcwA6ACAANABwAHgAOwANAAoAfQANAAoADQAKAC4AbQBhAHIA
+awBkAG8AdwBuAC0AYgBvAGQAeQAgAHAAcgBlACAAYwBvAGQAZQAgAHsADQAKACAAIAAgACAAbQBh
+AHIAZwBpAG4AOgAgADAAOwANAAoAIAAgACAAIABwAGEAZABkAGkAbgBnADoAIAAwADsADQAKACAA
+IAAgACAAdwBvAHIAZAAtAHcAcgBhAHAAOgAgAGIAcgBlAGEAawAtAHcAbwByAGQAOwANAAoAIAAg
+ACAAIABtAGEAeAAtAHcAaQBkAHQAaAA6ACAAMQAwADAAJQA7AA0ACgAgACAAIAAgAGIAbwByAGQA
+ZQByADoAIABuAG8AbgBlADsADQAKACAAIAAgACAAYgBhAGMAawBnAHIAbwB1AG4AZAA6ACAAdABy
+AGEAbgBzAHAAYQByAGUAbgB0ADsADQAKACAAIAAgACAAYwBvAGwAbwByADoAIAAjADYANgA2ADsA
+DQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABwAHIAZQAgAHsADQAK
+ACAAIAAgACAAYgBhAGMAawBnAHIAbwB1AG4AZAAtAGMAbwBsAG8AcgA6ACAAIwBmADgAZgA4AGYA
+OAA7AA0ACgAgACAAIAAgAGIAbwByAGQAZQByADoAIAAxAHAAeAAgAHMAbwBsAGkAZAAgACMAYwBj
+AGMAYwBjAGMAOwANAAoAIAAgACAAIABmAG8AbgB0AC0AcwBpAHoAZQA6ACAAMQAwAHAAdAA7AA0A
+CgAgACAAIAAgAGYAbwBuAHQALQBzAGkAegBlADoAIAAwAC4AOAAzAHIAZQBtADsADQAKACAAIAAg
+ACAAbABpAG4AZQAtAGgAZQBpAGcAaAB0ADoAIAAxADQAcAB0ADsADQAKACAAIAAgACAAbABpAG4A
+ZQAtAGgAZQBpAGcAaAB0ADoAIAAxAC4AMQA3AHIAZQBtADsADQAKACAAIAAgACAAbwB2AGUAcgBm
+AGwAbwB3ADoAIABhAHUAdABvADsADQAKACAAIAAgACAAcABhAGQAZABpAG4AZwA6ACAANgBwAHgA
+IAAxADAAcAB4ADsADQAKACAAIAAgACAAYgBvAHIAZABlAHIALQByAGEAZABpAHUAcwA6ACAAMwBw
+AHgAOwANAAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAC4AQwBvAGQA
+ZQBNAGkAcgByAG8AcgAgAHAAcgBlACAAewANAAoAIAAgACAAIABiAGEAYwBrAGcAcgBvAHUAbgBk
+AC0AYwBvAGwAbwByADoAIAB0AHIAYQBuAHMAcABhAHIAZQBuAHQAOwANAAoAIAAgACAAIABiAG8A
+cgBkAGUAcgA6ACAAMABwAHgAOwANAAoAIAAgACAAIABmAG8AbgB0AC0AcwBpAHoAZQA6ACAAaQBu
+AGgAZQByAGkAdAA7AA0ACgAgACAAIAAgAGwAaQBuAGUALQBoAGUAaQBnAGgAdAA6ACAAaQBuAGgA
+ZQByAGkAdAA7AA0ACgAgACAAIAAgAG8AdgBlAHIAZgBsAG8AdwA6ACAAaQBuAGkAdABpAGEAbAA7
+AA0ACgAgACAAIAAgAHAAYQBkAGQAaQBuAGcAOgAgADAAIAA0AHAAeAA7AA0ACgAgACAAIAAgAGIA
+bwByAGQAZQByAC0AcgBhAGQAaQB1AHMAOgAgAGkAbgBpAHQAaQBhAGwAOwANAAoAIAAgACAAIABt
+AGEAcgBnAGkAbgA6ACAAMAA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8A
+ZAB5ACAAcAByAGUAIABjAG8AZABlACwAIAAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIABw
+AHIAZQAgAHQAdAAgAHsADQAKACAAIAAgACAAYgBhAGMAawBnAHIAbwB1AG4AZAAtAGMAbwBsAG8A
+cgA6ACAAdAByAGEAbgBzAHAAYQByAGUAbgB0ADsADQAKACAAIAAgACAAYgBvAHIAZABlAHIAOgAg
+AG4AbwBuAGUAOwANAAoAfQANAAoADQAKAEAAbQBlAGQAaQBhACAAcwBjAHIAZQBlAG4AIAB7AA0A
+CgAgACAAIAAgAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAHAAcgBlACwAIAAuAG0AYQBy
+AGsAZABvAHcAbgAtAGIAbwBkAHkAIABjAG8AZABlACAAewANAAoAIAAgACAAIAAgACAAIAAgAHcA
+bwByAGQALQB3AHIAYQBwADoAIABiAHIAZQBhAGsALQB3AG8AcgBkADsADQAKACAAIAAgACAAfQAN
+AAoAfQANAAoADQAKAEAAbQBlAGQAaQBhACAAcAByAGkAbgB0ACAAewANAAoAIAAgACAAIAAuAG0A
+YQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIAB0AGEAYgBsAGUALAAgAC4AbQBhAHIAawBkAG8AdwBu
+AC0AYgBvAGQAeQAgAHAAcgBlACAAewANAAoAIAAgACAAIAAgACAAIAAgAHAAYQBnAGUALQBiAHIA
+ZQBhAGsALQBpAG4AcwBpAGQAZQA6ACAAYQB2AG8AaQBkADsADQAKACAAIAAgACAAfQANAAoADQAK
+ACAAIAAgACAAcAByAGUAIAB7AA0ACgAgACAAIAAgACAAIAAgACAAdwBvAHIAZAAtAHcAcgBhAHAA
+OgAgAGIAcgBlAGEAawAtAHcAbwByAGQAOwANAAoAIAAgACAAIAB9AA0ACgB9AA0ACgANAAoADQAK
+AC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAHAAcgBlACwAIAAuAG0AYQByAGsAZABvAHcA
+bgAtAGIAbwBkAHkAIABjAG8AZABlACAAewANAAoAIAAgACAAIABmAG8AbgB0AC0AZgBhAG0AaQBs
+AHkAOgAgAEMAbwBuAHMAbwBsAGEAcwAsACAAIgBMAGkAYgBlAHIAYQB0AGkAbwBuACAATQBvAG4A
+bwAiACwAIABNAGUAbgBsAG8ALAAgAEMAbwB1AHIAaQBlAHIALAAgAG0AbwBuAG8AcwBwAGEAYwBl
+ADsADQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIAAuAHAAbABuACAA
+ewANAAoAIAAgACAAIABjAG8AbABvAHIAOgAgACMANAA4ADQAOAA0AEMAOwANAAoAfQANAAoADQAK
+AC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAC4AcwB0AHIAIAB7AA0ACgAgACAAIAAgAGMA
+bwBsAG8AcgA6ACAAIwBEAEQAMQAxADQANAA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBrAGQAbwB3
+AG4ALQBiAG8AZAB5ACAALgBrAHcAZAAgAHsADQAKACAAIAAgACAAYwBvAGwAbwByADoAIAAjADEA
+RQAzADQANwBCADsADQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIAAu
+AGMAbwBtACAAewANAAoAIAAgACAAIABjAG8AbABvAHIAOgAgACMAOQAzAEEAMQBBADEAOwANAAoA
+fQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAC4AdAB5AHAAIAB7AA0ACgAg
+ACAAIAAgAGMAbwBsAG8AcgA6ACAAdABlAGEAbAA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBrAGQA
+bwB3AG4ALQBiAG8AZAB5ACAALgBsAGkAdAAgAHsADQAKACAAIAAgACAAYwBvAGwAbwByADoAIAAj
+ADEAOQA1AEYAOQAxADsADQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkA
+IAAuAHAAdQBuACAAewANAAoAIAAgACAAIABjAG8AbABvAHIAOgAgACMAOQAzAEEAMQBBADEAOwAN
+AAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAC4AbwBwAG4AIAB7AA0A
+CgAgACAAIAAgAGMAbwBsAG8AcgA6ACAAIwA5ADMAQQAxAEEAMQA7AA0ACgB9AA0ACgANAAoALgBt
+AGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAALgBjAGwAbwAgAHsADQAKACAAIAAgACAAYwBvAGwA
+bwByADoAIAAjADkAMwBBADEAQQAxADsADQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAt
+AGIAbwBkAHkAIAAuAHQAYQBnACAAewANAAoAIAAgACAAIABjAG8AbABvAHIAOgAgACMAMAAwADgA
+OwANAAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAC4AYQB0AG4AIAB7
+AA0ACgAgACAAIAAgAGMAbwBsAG8AcgA6ACAAdABlAGEAbAA7AA0ACgB9AA0ACgANAAoALgBtAGEA
+cgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAALgBhAHQAdgAgAHsADQAKACAAIAAgACAAYwBvAGwAbwBy
+ADoAIAAjAEQARAAxADEANAA0ADsADQAKAH0ADQAKAA0ACgAuAG0AYQByAGsAZABvAHcAbgAtAGIA
+bwBkAHkAIAAuAGQAZQBjACAAewANAAoAIAAgACAAIABjAG8AbABvAHIAOgAgAHQAZQBhAGwAOwAN
+AAoAfQANAAoADQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAC4AdgBhAHIAIAB7AA0A
+CgAgACAAIAAgAGMAbwBsAG8AcgA6ACAAdABlAGEAbAA7AA0ACgB9AA0ACgANAAoALgBtAGEAcgBr
+AGQAbwB3AG4ALQBiAG8AZAB5ACAALgBmAHUAbgAgAHsADQAKACAAIAAgACAAYwBvAGwAbwByADoA
+IAAjAEQAQwAzADIAMgBGADsADQAKAH0ADQAKAA0ACgANAAoADQAKACAAIAAgACAADQAKACAAIAAg
+ACAADQAKACAAIAAgACAADQAKAA0ACgANAAoADQAKACAAIAAgACAADQAKACAAIAAgACAADQAKAA0A
+CgANAAoADQAKAA0ACgAgACAAIAAgAA0ACgAgACAAIAAgAA0ACgAgACAAIAAgAA0ACgAgACAAIAAg
+AA0ACgAgACAAIAAgAA0ACgANAAoADQAKAA0ACgAgACAAIAAgAA0ACgAgACAAIAAgAA0ACgAgACAA
+IAAgAA0ACgANAAoADQAKAA0ACgANAAoADQAKAA0ACgANAAoADQAKAA0ACgANAAoADQAKAA0ACgAg
+ACAAIAAgAA0ACgANAAoADQAKAA0ACgBAAG0AZQBkAGkAYQAgAHMAYwByAGUAZQBuACAAYQBuAGQA
+IAAoAG0AYQB4AC0AdwBpAGQAdABoADoAIAA2ADYAMABwAHgAKQAgAHsADQAKACAAIAAgACAALgBt
+AGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAAewANAAoAIAAgACAAIAAgACAAIAAgAHAAYQBkAGQA
+aQBuAGcAOgAgADIAMABwAHgAIAAxADgAcAB4ADsADQAKACAAIAAgACAAfQANAAoAfQANAAoADQAK
+AA0ACgBAAG0AZQBkAGkAYQAgAG8AbgBsAHkAIABzAGMAcgBlAGUAbgAgAGEAbgBkACAAKAAtAHcA
+ZQBiAGsAaQB0AC0AbQBhAHgALQBkAGUAdgBpAGMAZQAtAHcAaQBkAHQAaAA6ACAAMQAwADIANABw
+AHgAKQAsAA0ACgBvAG4AbAB5ACAAcwBjAHIAZQBlAG4AIABhAG4AZAAgACgALQBvAC0AbQBhAHgA
+LQBkAGUAdgBpAGMAZQAtAHcAaQBkAHQAaAA6ACAAMQAwADIANABwAHgAKQAsAA0ACgBvAG4AbAB5
+ACAAcwBjAHIAZQBlAG4AIABhAG4AZAAgACgAbQBhAHgALQBkAGUAdgBpAGMAZQAtAHcAaQBkAHQA
+aAA6ACAAMQAwADIANABwAHgAKQAsAA0ACgBvAG4AbAB5ACAAcwBjAHIAZQBlAG4AIABhAG4AZAAg
+ACgALQB3AGUAYgBrAGkAdAAtAG0AaQBuAC0AZABlAHYAaQBjAGUALQBwAGkAeABlAGwALQByAGEA
+dABpAG8AOgAgADMAKQAsAA0ACgBvAG4AbAB5ACAAcwBjAHIAZQBlAG4AIABhAG4AZAAgACgALQBv
+AC0AbQBpAG4ALQBkAGUAdgBpAGMAZQAtAHAAaQB4AGUAbAAtAHIAYQB0AGkAbwA6ACAAMwApACwA
+DQAKAG8AbgBsAHkAIABzAGMAcgBlAGUAbgAgAGEAbgBkACAAKABtAGkAbgAtAGQAZQB2AGkAYwBl
+AC0AcABpAHgAZQBsAC0AcgBhAHQAaQBvADoAIAAzACkAIAB7AA0ACgAgACAAIAAgAC4AbQBhAHIA
+awBkAG8AdwBuAC0AYgBvAGQAeQAgAHsADQAKACAAIAAgACAAIAAgACAAIABwAGEAZABkAGkAbgBn
+ADoAIAAxADIAcAB4ACAAMQA1AHAAeAA7AA0ACgAgACAAIAAgACAAIAAgACAADQAKACAAIAAgACAA
+fQANAAoADQAKACAAIAAgACAADQAKACAAIAAgACAADQAKACAAIAAgACAADQAKACAAIAAgACAAIAAg
+ACAAIAANAAoAIAAgACAAIAAgACAAIAAgAA0ACgAgACAAIAAgAA0ACgANAAoAIAAgACAAIAANAAoA
+IAAgACAAIAAgACAAIAAgAA0ACgAgACAAIAAgAA0ACgANAAoAIAAgACAAIAANAAoAIAAgACAAIAAg
+ACAAIAAgAA0ACgAgACAAIAAgAA0ACgANAAoAIAAgACAAIAANAAoAIAAgACAAIAAgACAAIAAgAA0A
+CgAgACAAIAAgAA0ACgANAAoAIAAgACAAIAANAAoAIAAgACAAIAAgACAAIAAgAA0ACgAgACAAIAAg
+AA0ACgANAAoAIAAgACAAIAANAAoAIAAgACAAIAAgACAAIAAgAA0ACgAgACAAIAAgAA0ACgANAAoA
+IAAgACAAIAANAAoAIAAgACAAIAAgACAAIAAgAA0ACgAgACAAIAAgAA0ACgANAAoAIAAgACAAIAAu
+AG0AYQByAGsAZABvAHcAbgAtAGIAbwBkAHkAIAB1AGwALAAgAC4AbQBhAHIAawBkAG8AdwBuAC0A
+YgBvAGQAeQAgAG8AbAAgAHsADQAKACAAIAAgACAAIAAgACAAIABwAGEAZABkAGkAbgBnAC0AbABl
+AGYAdAA6ACAANAAwAHAAeAA7AA0ACgAgACAAIAAgAH0ADQAKAA0ACgAgACAAIAAgAC4AbQBhAHIA
+awBkAG8AdwBuAC0AYgBvAGQAeQAgAGIAbABvAGMAawBxAHUAbwB0AGUAIAB7AA0ACgAgACAAIAAg
+ACAAIAAgACAADQAKACAAIAAgACAAIAAgACAAIABwAGEAZABkAGkAbgBnADoAIAAwACAAMQA1AHAA
+eAA7AA0ACgAgACAAIAAgACAAIAAgACAADQAKACAAIAAgACAAfQANAAoAfQANAAoADQAKAA0ACgAu
+AGMAbwBtAG0AZQBuAHQALQBsAGkAcwB0AC0AaQB0AGUAbQAgAC4AbQBhAHIAawBkAG8AdwBuAC0A
+YgBvAGQAeQAgAHsADQAKACAAIAAgACAAcABhAGQAZABpAG4AZwA6ACAAMAA7AA0ACgAgACAAIAAg
+AG0AYQByAGcAaQBuADoAIAAxAGUAbQAgAC4ANQBlAG0AIAAxAGUAbQAgADAAOwANAAoAfQANAAoA
+DQAKAC4AbQBhAHIAawBkAG8AdwBuAC0AYgBvAGQAeQAgAC4AdwBpAHoALQBjAG8AZABlAC0AYwBv
+AG4AdABhAGkAbgBlAHIALAANAAoALgBtAGEAcgBrAGQAbwB3AG4ALQBiAG8AZAB5ACAALgB3AGkA
+egAtAHQAYQBiAGwAZQAtAGIAbwBkAHkAIAB7AA0ACgAgACAAIAAgAHAAYQBkAGQAaQBuAGcAOgAg
+ADAAOwANAAoAfQA=
+
+------=_Next_Part_0275857299.467
+Content-Type: text/css;
+	name="wizToc.css"
+Content-Transfer-Encoding: base64
+Content-ID: <wizToc.css>
+Content-Location: wizToc.css
+
+//4NAAoALgB3AGkAegBfAHQAbwBjAF8AbABhAHkAZQByACAAewANAAoAIAAgACAAIABiAGEAYwBr
+AGcAcgBvAHUAbgBkADoAIAAjAEYAOQBGADkARgA1ADsADQAKACAAIAAgACAAcABhAGQAZABpAG4A
+ZwA6ACAAMgAwAHAAeAAgADIANQBwAHgAOwANAAoAIAAgACAAIAB3AG8AcgBkAC0AYgByAGUAYQBr
+ADoAIABiAHIAZQBhAGsALQB3AG8AcgBkADsADQAKAH0ADQAKAA0ACgAuAHcAaQB6AF8AdABvAGMA
+IAB7AA0ACgAgACAAIAAgAHQAZQB4AHQALQBkAGUAYwBvAHIAYQB0AGkAbwBuADoAIABuAG8AbgBl
+ADsADQAKACAAIAAgACAAZABpAHMAcABsAGEAeQA6ACAAaQBuAGwAaQBuAGUALQBiAGwAbwBjAGsA
+OwANAAoAIAAgACAAIABsAGkAbgBlAC0AaABlAGkAZwBoAHQAOgAgADIANwBwAHgAOwANAAoAfQAN
+AAoALgB3AGkAegBfAHQAbwBjADoAaABvAHYAZQByAHsADQAKACAAIAAgACAAdABlAHgAdAAtAGQA
+ZQBjAG8AcgBhAHQAaQBvAG4AOgAgAHUAbgBkAGUAcgBsAGkAbgBlADsADQAKAH0ADQAKAC4AdwBp
+AHoAXwB0AG8AYwAuAGgAMQAgAHsADQAKACAAIAAgACAAbQBhAHIAZwBpAG4ALQBsAGUAZgB0ADoA
+IAAwADsADQAKAH0ADQAKAC4AdwBpAHoAXwB0AG8AYwAuAGgAMgAgAHsADQAKACAAIAAgACAAbQBh
+AHIAZwBpAG4ALQBsAGUAZgB0ADoAIAAyADAAcAB4ADsADQAKAH0ADQAKAC4AdwBpAHoAXwB0AG8A
+YwAuAGgAMwAgAHsADQAKACAAIAAgACAAbQBhAHIAZwBpAG4ALQBsAGUAZgB0ADoAIAA0ADAAcAB4
+ADsADQAKAH0ADQAKAC4AdwBpAHoAXwB0AG8AYwAuAGgANAAgAHsADQAKACAAIAAgACAAbQBhAHIA
+ZwBpAG4ALQBsAGUAZgB0ADoAIAA2ADAAcAB4ADsADQAKAH0ADQAKAC4AdwBpAHoAXwB0AG8AYwAu
+AGgANQAgAHsADQAKACAAIAAgACAAbQBhAHIAZwBpAG4ALQBsAGUAZgB0ADoAIAA4ADAAcAB4ADsA
+DQAKAH0ADQAKAC4AdwBpAHoAXwB0AG8AYwAuAGgANgAgAHsADQAKACAAIAAgACAAbQBhAHIAZwBp
+AG4ALQBsAGUAZgB0ADoAIAAxADAAMABwAHgAOwANAAoAfQANAAoA
+
+
+------=_Next_Part_0275857299.467--
+
