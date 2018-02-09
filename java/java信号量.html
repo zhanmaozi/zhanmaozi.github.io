@@ -1,14 +1,11 @@
 <!DOCTYPE html>
-
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
         <link rel='stylesheet' id='decode-style-css'  href='http://zhanmaozi.github.io/css/decode.css' type='text/css' media='all' />
-        <title>java信号量</title>
-        
-		
+        <title>java信号量</title>        		
 	</head>
 	<body>
 		<header id="masthead" class="site-header" role="banner">
@@ -23,26 +20,23 @@
    <h1 class="site-title">java信号量</h1>
 		<p/><p/>
 		
-		
-		
-		
-		<p>问题背景：
-公司的微信公众号用户量比较大，每个月月初的时候会给用户推送上个月的账单数据，除此之外还会不定期给用户推送一些营销活动的模板消息。</p>
-<p>当前的解决办法是：
-  抽取用户数据后将用户分组标记，分为10个组，然后开启10个线程，一个线程一个组，互不相干。至此一小时推送7W左右。</p>
-<p>业务希望能提高速度，于是改进办法：
-采用newCachedThreadPool线程池，结果是速度快了，因为推送的tomcat和主项目公用一台服务器，用了线程池之后，速度提高了但是影响了主项目的响应速度，于是放弃,天无绝人之路，重在思考。</p>
-发现java有信号量，可以控制资源，于是把线程当资源，控制并发线程数，这样一来的话就
-
-代码如下：
-<code><pre>package com.XXXXXX;
+	<h2>问题背景：</h2>
+<p>公司的微信公众号用户量比较大，每个月月初的时候会给用户推送上个月的账单数据，除此之外还会不定期给用户推送一些营销活动的模板消息。</p>
+<h2>当前的解决办法是：</h2>
+<p>抽取用户数据后将用户分组标记，分为10个组，然后开启10个线程，一个线程一个组，互不相干。至此一小时推送7W左右。</p>
+<h2>业务希望能提高速度，于是改进办法：</h2>
+<p>采用newCachedThreadPool线程池，结果是速度快了，因为推送的tomcat和主项目公用一台服务器，用了线程池之后，速度提高了但是影响了主项目的响应速度，于是放弃,天无绝人之路，重在思考。
+发现java有信号量，可以控制资源，于是把线程当资源，控制并发线程数，这样一来的话就</p>
+<p>代码如下：</p>
+<pre><code>
+package com.XXXXXX;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Semaphore;
 
 /**
-* Created by maxiaoying on 2018/2/2.
+* Created by xilor on 2018/2/2.
 * DESC:线程信号量demo
 */
 public class SemaphoreDemo {
@@ -106,23 +100,7 @@ public class SemaphoreDemo {
 }
 </code></pre>
 
-		
-		
-		
-		
-		
-		
-		
-		
-        
-
-
-        <div> 2018-02-07 22:44</div>
-		
-		<div id="uyan_frame"></div>
-		<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=1546939"></script>
-		
-	</body>
+</body>
 </html>
 
 
